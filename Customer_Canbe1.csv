@@ -1,0 +1,1001 @@
+customer_id,Property Id,customer_name,Gender,customer_email,price per night,Renewal,stay_duraion,Total Price,Customer Rating,Customer Rating_level 
+1,18,Shel,M,scoen0@free.fr,30,No,14,420,4.9,Best
+2,3,Hymie,M,hhaselden1@cafepress.com,27,No,13,351,4.8,Best
+3,18,Franklin,M,fbeames2@ebay.com,20,No,14,280,4.9,Best
+4,3,Eadmund,M,etynnan3@discuz.net,20,Yes,13,260,4.8,Best
+5,16,Natalya,M,nedler4@oakley.com,18,No,3,54,3.9,Average
+6,8,Ulises,M,ulorence5@uol.com.br,17,No,10,170,4.3,Good
+7,16,Karoline,M,ksimmance6@taobao.com,17,Yes,1,17,3.9,Average
+8,14,Devinne,M,dvacher7@jugem.jp,11,Yes,6,66,4.1,Good
+9,16,Constancia,M,ccastanone8@woothemes.com,12,Yes,2,24,3.9,Average
+10,1,Delcine,F ,dsmullen9@upenn.edu,30,No,11,330,4.3,Good
+11,14,Howie,M,hpaulacka@amazon.com,30,No,6,180,4.1,Good
+12,9,Kermit,M,khakonssonb@comcast.net,29,No,9,261,4.5,Best
+13,8,Teri,M,ttuveyc@pinterest.com,13,No,10,130,4.3,Good
+14,8,Innis,M,isouthalld@list-manage.com,23,No,10,230,4.3,Good
+15,14,Victor,M,vdacrese@kickstarter.com,16,No,7,112,4.1,Good
+16,18,Annamarie,F ,alawreyf@ibm.com,13,No,14,182,4.9,Best
+17,16,Dierdre,M,deickhoffg@patch.com,23,Yes,4,92,3.9,Average
+18,7,Harman,F ,hfrichleyh@bing.com,14,Yes,12,168,4.4,Good
+19,7,Bevan,F ,bbuckelli@soup.io,21,Yes,12,252,4.4,Good
+20,16,Sandro,M,sfallanchej@cnn.com,29,Yes,2,58,3.9,Average
+21,8,Sandor,F ,stulkk@baidu.com,23,Yes,10,230,4.3,Good
+22,18,Storm,M,scarlessol@zdnet.com,21,No,14,294,4.9,Best
+23,16,Holly,M,hneachellm@instagram.com,19,No,4,76,3.9,Average
+24,9,Rozele,M,rgiamellin@wikipedia.org,23,Yes,9,207,4.5,Best
+25,16,Tann,M,tleteurtreo@biblegateway.com,26,No,4,104,3.9,Average
+26,9,Harriot,M,hsiwardp@google.fr,11,Yes,8,88,4.5,Best
+27,16,Miner,F ,mdeblasioq@dagondesign.com,13,No,3,39,3.9,Average
+28,16,Madlin,F ,mtedmanr@angelfire.com,18,Yes,4,72,3.9,Average
+29,8,Barret,F ,bhurcombes@slideshare.net,18,Yes,10,180,4.3,Good
+30,14,Janith,F ,jlabbt@who.int,18,No,6,108,4.1,Good
+31,14,Gabbie,M,gcrowhurstu@stumbleupon.com,11,No,7,77,4.1,Good
+32,14,Shaine,F ,sarunowiczv@microsoft.com,21,Yes,7,147,4.1,Good
+33,16,Osgood,M,oqueripelw@furl.net,15,No,4,60,3.9,Average
+34,18,Cherianne,M,csanciasx@biblegateway.com,25,No,14,350,4.9,Best
+35,7,Joycelin,M,jcrinkleyy@jalbum.net,13,Yes,12,156,4.4,Good
+36,9,Serge,F ,sfolcarelliz@hud.gov,18,No,8,144,4.5,Best
+37,16,Troy,M,tczajkowski10@github.com,16,No,5,80,3.9,Average
+38,16,Shane,M,sterron11@nature.com,12,Yes,3,36,3.9,Average
+39,18,Clementia,M,cbartolijn12@so-net.ne.jp,21,Yes,14,294,4.9,Best
+40,16,Emalee,M,emaddin13@wikipedia.org,14,Yes,3,42,3.9,Average
+41,3,Del,M,dbilyard14@comsenz.com,18,No,13,234,4.8,Best
+42,8,Ferrell,F ,fboughtwood15@geocities.com,28,No,10,280,4.3,Good
+43,8,Babb,F ,bpunt16@ucoz.ru,16,Yes,10,160,4.3,Good
+44,16,Denyse,M,dwignall17@newsvine.com,19,No,5,95,3.9,Average
+45,18,Sherwood,M,spowdrill18@wikispaces.com,22,No,14,308,4.9,Best
+46,16,Eldin,F ,eenrico19@lulu.com,27,Yes,3,81,3.9,Average
+47,16,Ina,M,iboswood1a@who.int,29,No,5,145,3.9,Average
+48,9,Lewiss,M,lharmson1b@unicef.org,13,Yes,8,104,4.5,Best
+49,7,Mariele,M,mgammie1c@alibaba.com,13,No,12,156,4.4,Good
+50,16,Reiko,F ,rhousiaux1d@amazon.com,24,No,5,120,3.9,Average
+51,9,Druci,F ,dmucklestone1e@gov.uk,10,No,9,90,4.5,Best
+52,16,Nils,M,nburchatt1f@blogtalkradio.com,17,Yes,3,51,3.9,Average
+53,14,Jeannie,F ,jbiskupiak1g@home.pl,16,No,6,96,4.1,Good
+54,8,Kakalina,M,kzeale1h@netlog.com,30,Yes,10,300,4.3,Good
+55,16,Candace,M,cfreeborne1i@umich.edu,11,No,3,33,3.9,Average
+56,16,Othilia,M,omacginlay1j@google.ru,30,Yes,3,90,3.9,Average
+57,16,Melanie,M,mshackle1k@abc.net.au,25,No,5,125,3.9,Average
+58,9,Lee,F ,ldragoe1l@yandex.ru,23,Yes,8,184,4.5,Best
+59,16,Staffard,F ,sbellie1m@ow.ly,20,No,5,100,3.9,Average
+60,14,Brendon,M,blunck1n@zimbio.com,15,No,6,90,4.1,Good
+61,16,Denver,M,deliez1o@yale.edu,28,No,1,28,3.9,Average
+62,8,Walther,M,wspieght1p@ucoz.com,16,No,1,16,4.3,Good
+63,7,Ki,M,krose1q@printfriendly.com,27,No,12,324,4.4,Good
+64,16,Weylin,F ,wfishbourn1r@google.pl,18,Yes,3,54,3.9,Average
+65,3,Brooke,F ,bmckeurtan1s@goodreads.com,20,Yes,13,260,4.8,Best
+66,16,Kristopher,M,kbaxstar1t@livejournal.com,30,Yes,5,150,3.9,Average
+67,16,Manda,M,mlangfitt1u@theatlantic.com,19,Yes,2,38,3.9,Average
+68,1,Edy,M,etod1v@pen.io,15,No,11,165,4.3,Good
+69,1,Gabbie,M,gwaine1w@woothemes.com,11,No,11,121,4.3,Good
+70,7,Scarlet,M,skindleside1x@patch.com,28,No,12,336,4.4,Good
+71,16,Maude,M,mredwall1y@statcounter.com,20,Yes,2,40,3.9,Average
+72,16,Carree,M,cgronou1z@pcworld.com,30,No,2,60,3.9,Average
+73,16,Shirlee,M,soculligan20@examiner.com,14,No,3,42,3.9,Average
+74,9,Pavel,M,pmulloch21@bloomberg.com,11,Yes,9,99,4.5,Best
+75,16,Grove,F ,gcraise22@sakura.ne.jp,14,No,2,28,3.9,Average
+76,7,Marten,M,mfennelow23@csmonitor.com,18,No,12,216,4.4,Good
+77,16,Normy,M,nodowgaine24@japanpost.jp,29,No,5,145,3.9,Average
+78,16,Matthus,M,mdomenicone25@yelp.com,17,Yes,1,17,3.9,Average
+79,16,Pollyanna,M,psleeman26@unc.edu,14,No,3,42,3.9,Average
+80,9,Seline,M,sduro27@amazon.de,19,Yes,8,152,4.5,Best
+81,16,Burch,M,bsedgemore28@quantcast.com,18,Yes,4,72,3.9,Average
+82,7,Flo,F ,fbrett29@gizmodo.com,22,No,12,264,4.4,Good
+83,16,Kaja,F ,kseal2a@howstuffworks.com,15,No,3,45,3.9,Average
+84,9,Kurtis,M,kdrynan2b@google.es,21,No,8,168,4.5,Best
+85,14,Phaidra,M,pleemans2c@fc2.com,25,Yes,7,175,4.1,Good
+86,14,Joe,F ,jsinisbury2d@hostgator.com,21,No,7,147,4.1,Good
+87,14,Niko,M,nmcfadzean2e@addtoany.com,18,No,7,126,4.1,Good
+88,14,Sim,M,sfawke2f@census.gov,17,No,7,119,4.1,Good
+89,16,Averil,M,ascriven2g@amazon.co.jp,12,Yes,1,12,3.9,Average
+90,16,Maurita,F ,mprater2h@google.com,20,Yes,5,100,3.9,Average
+91,16,Reynolds,F ,rdunnet2i@instagram.com,21,No,4,84,3.9,Average
+92,16,Lise,M,lbrayn2j@1688.com,12,No,3,36,3.9,Average
+93,16,Niccolo,M,ntinkler2k@photobucket.com,14,Yes,3,42,3.9,Average
+94,14,Kordula,M,kpoundesford2l@china.com.cn,20,Yes,6,120,4.1,Good
+95,16,Conrade,M,cgrizard2m@about.com,24,No,5,120,3.9,Average
+96,3,Isadora,F ,imohamed2n@apple.com,12,No,13,156,4.8,Best
+97,16,Rubia,M,rketts2o@dropbox.com,28,Yes,4,112,3.9,Average
+98,16,Shanan,M,sbazire2p@smh.com.au,22,No,4,88,3.9,Average
+99,9,Eloise,M,ereschke2q@cornell.edu,27,Yes,9,243,4.5,Best
+100,8,Pepi,M,psantora2r@barnesandnoble.com,27,Yes,10,270,4.3,Good
+101,14,Sarette,F ,sredparth2s@washington.edu,11,No,6,66,4.1,Good
+102,9,Sarge,M,sianinotti2t@upenn.edu,12,No,8,96,4.5,Best
+103,8,Cinnamon,M,ccroci2u@hatena.ne.jp,29,Yes,10,290,4.3,Good
+104,8,Minna,M,mgilffillan2v@hc360.com,25,Yes,10,250,4.3,Good
+105,16,Vonny,M,vgrennan2w@umich.edu,25,No,2,50,3.9,Average
+106,3,Eveleen,F ,eingleston2x@hugedomains.com,22,No,13,286,4.8,Best
+107,14,Aliza,M,akhosa2y@uol.com.br,17,No,6,102,4.1,Good
+108,1,Doralynne,M,dwaliszek2z@intel.com,30,Yes,11,330,4.3,Good
+109,8,Keene,M,kgales30@marketwatch.com,17,Yes,10,170,4.3,Good
+110,14,Hansiain,M,hmcgirl31@squarespace.com,18,Yes,7,126,4.1,Good
+111,16,Marcy,M,mhand32@pinterest.com,15,Yes,3,45,3.9,Average
+112,3,Pattie,F ,pmacmearty33@economist.com,25,Yes,13,325,4.8,Best
+113,9,Chrotoem,M,celvey34@people.com.cn,20,Yes,9,180,4.5,Best
+114,16,Juliet,M,jfluck35@sun.com,26,No,3,78,3.9,Average
+115,9,Rog,M,rfaughey36@purevolume.com,25,No,8,200,4.5,Best
+116,16,Myron,M,msiddell37@businesswire.com,15,Yes,4,60,3.9,Average
+117,7,Fielding,M,flinklater38@ebay.co.uk,14,Yes,12,168,4.4,Good
+118,16,Giorgi,M,ggirodier39@symantec.com,20,Yes,5,100,3.9,Average
+119,14,Kerwin,M,kamor3a@hexun.com,25,No,9,225,4.1,Good
+120,1,Gillian,F ,gbeange3b@independent.co.uk,12,Yes,11,132,4.3,Good
+121,7,Whitman,M,wstreatfeild3c@weebly.com,19,Yes,12,228,4.4,Good
+122,3,Marcellina,M,mrivlin3d@ibm.com,25,Yes,13,325,4.8,Best
+123,16,Clarisse,M,cyeates3e@bbb.org,18,No,1,18,3.9,Average
+124,4,Corny,M,ckerswill3f@paypal.com,20,No,1,20,2.1,Bad
+125,7,Nichole,M,nbulled3g@gravatar.com,12,Yes,12,144,4.4,Good
+126,14,Allie,M,aolligan3h@comsenz.com,24,Yes,7,168,4.1,Good
+127,4,Evelyn,M,erossetti3i@fotki.com,26,No,2,52,2.1,Bad
+128,4,Leonardo,M,lblazej3j@dedecms.com,25,Yes,3,75,2.1,Bad
+129,17,Terri,F ,tstilliard3k@webs.com,29,Yes,4,116,3.1,Bad
+130,18,Shaylah,F ,slettuce3l@devhub.com,21,No,14,294,4.9,Best
+131,18,Aloysia,M,abreadon3m@hibu.com,23,Yes,14,322,4.9,Best
+132,4,Heath,F ,hpancost3n@bbb.org,30,Yes,5,150,2.1,Bad
+133,17,Mata,F ,mbrandsma3o@europa.eu,23,Yes,4,92,3.1,Bad
+134,3,Early,M,eweddeburn3p@imgur.com,21,Yes,13,273,4.8,Best
+135,14,Jaimie,F ,jkilmary3q@oakley.com,15,No,6,90,4.1,Good
+136,1,Johnathon,M,jdods3r@oracle.com,20,Yes,11,220,4.3,Good
+137,7,Berte,M,bbeveredge3s@hostgator.com,24,No,12,288,4.4,Good
+138,4,Elspeth,M,eheistermann3t@surveymonkey.com,27,Yes,3,81,2.1,Bad
+139,3,Erl,M,esokale3u@uol.com.br,25,Yes,13,325,4.8,Best
+140,1,Thalia,M,tsurfleet3v@privacy.gov.au,12,Yes,11,132,4.3,Good
+141,4,Manya,F ,mmantrup3w@wiley.com,19,No,5,95,2.1,Bad
+142,4,Vanya,M,vsnalum3x@baidu.com,15,Yes,1,15,2.1,Bad
+143,17,Brigit,M,bvannikov3y@pbs.org,30,No,4,120,3.1,Bad
+144,9,Kris,M,kgoch3z@studiopress.com,26,Yes,8,208,4.5,Best
+145,9,Uri,M,ugillogley40@vinaora.com,11,No,8,88,4.5,Best
+146,14,Alli,F ,acarnier41@about.com,29,Yes,7,203,4.1,Good
+147,7,Giles,F ,gsutherden42@springer.com,21,Yes,12,252,4.4,Good
+148,3,Caitrin,F ,cnossent43@cnn.com,11,No,13,143,4.8,Best
+149,14,Mariejeanne,M,mmonday44@blog.com,28,No,7,196,4.1,Good
+150,4,Louis,M,lriatt45@bluehost.com,26,Yes,4,104,2.1,Bad
+151,4,Daloris,M,dshropshire46@craigslist.org,13,Yes,5,65,2.1,Bad
+152,3,Vilhelmina,M,vmccaskill47@acquirethisname.com,19,Yes,13,247,4.8,Best
+153,4,Alic,M,astiegars48@sciencedirect.com,23,No,1,23,2.1,Bad
+154,8,Ameline,M,asymonds49@delicious.com,24,Yes,10,240,4.3,Good
+155,14,Elisabetta,M,ematys4a@feedburner.com,25,No,7,175,4.1,Good
+156,17,Manuel,M,mrapport4b@vimeo.com,16,No,4,64,3.1,Bad
+157,9,Raul,F ,ryouhill4c@symantec.com,15,No,11,165,4.5,Best
+158,4,Yance,F ,ysooley4d@google.fr,16,No,13,208,2.1,Bad
+159,8,Gaylor,M,gluckman4e@ucoz.ru,15,No,10,150,4.3,Good
+160,1,Christina,M,cpinnegar4f@1und1.de,22,Yes,11,242,4.3,Good
+161,14,Guinna,F ,grubinow4g@cornell.edu,14,Yes,6,84,4.1,Good
+162,7,Aristotle,M,amiquelet4h@bloglines.com,10,Yes,12,120,4.4,Good
+163,4,Adrian,M,adeath4i@cornell.edu,30,No,1,30,2.1,Bad
+164,7,Broddie,M,bsutch4j@lycos.com,14,Yes,7,98,4.4,Good
+165,3,Nichol,F ,ncrippill4k@acquirethisname.com,24,No,13,312,4.8,Best
+166,4,Andonis,M,aanscombe4l@google.de,15,No,5,75,2.1,Bad
+167,4,Adrianne,F ,aledur4m@thetimes.co.uk,16,No,1,16,2.1,Bad
+168,1,Kelcie,M,kwadelin4n@foxnews.com,23,No,11,253,4.3,Good
+169,4,Cammie,M,cetuck4o@un.org,19,Yes,4,76,2.1,Bad
+170,14,Eldredge,M,edennerley4p@is.gd,11,No,6,66,4.1,Good
+171,7,Beverley,F ,bogborn4q@engadget.com,23,Yes,12,276,4.4,Good
+172,4,Rem,M,rcollelton4r@youku.com,18,Yes,3,54,2.1,Bad
+173,7,Cort,M,cayrs4s@1und1.de,11,No,12,132,4.4,Good
+174,14,Reyna,M,rrohlfing4t@paginegialle.it,17,No,6,102,4.1,Good
+175,4,Klarika,M,kmazin4u@dell.com,28,Yes,1,28,2.1,Bad
+176,14,Luce,M,lphilps4v@wsj.com,19,Yes,9,171,4.1,Good
+177,1,Kristoforo,M,kmcgeaney4w@photobucket.com,18,Yes,11,198,4.3,Good
+178,14,Web,M,wbrennen4x@oracle.com,24,Yes,7,168,4.1,Good
+179,4,Veda,M,vhaszard4y@lulu.com,23,Yes,2,46,2.1,Bad
+180,4,Pearline,M,phutcheson4z@networkadvertising.org,28,Yes,1,28,2.1,Bad
+181,9,Sergent,M,srushmer50@nationalgeographic.com,10,No,9,90,4.5,Best
+182,3,Stephanus,M,sfarnall51@macromedia.com,19,Yes,13,247,4.8,Best
+183,8,Catha,M,cscutter52@myspace.com,21,No,10,210,4.3,Good
+184,3,Haily,M,hcorey53@gravatar.com,24,No,13,312,4.8,Best
+185,5,Anatole,F ,abiffin54@theguardian.com,14,No,2,28,3.8,Average
+186,5,Lothaire,M,lmatiasek55@prlog.org,17,No,1,17,3.8,Average
+187,7,Ailbert,M,abointon56@phpbb.com,19,Yes,12,228,4.4,Good
+188,9,Jone,M,jbester57@ca.gov,28,Yes,8,224,4.5,Best
+189,9,Cyril,M,ccreamen58@dedecms.com,12,Yes,9,108,4.5,Best
+190,7,Hildy,M,hleeman59@nhs.uk,30,No,5,150,4.4,Good
+191,1,Micaela,M,mferagh5a@kickstarter.com,16,No,11,176,4.3,Good
+192,8,Rube,M,rcorlett5b@mozilla.com,21,No,10,210,4.3,Good
+193,5,Hermione,M,hbridie5c@simplemachines.org,22,No,4,88,3.8,Average
+194,18,Rochell,F ,rheilds5d@seesaa.net,24,Yes,14,336,4.9,Best
+195,18,Darill,M,dsacks5e@hubpages.com,10,No,14,140,4.9,Best
+196,8,Ulberto,M,uarrington5f@omniture.com,25,No,10,250,4.3,Good
+197,5,Meredithe,F ,mkave5g@nba.com,24,Yes,5,120,3.8,Average
+198,14,Teddy,M,tmacaless5h@51.la,29,Yes,7,203,4.1,Good
+199,18,Barde,M,bcamamill5i@bloglovin.com,17,Yes,14,238,4.9,Best
+200,5,Renaldo,M,rlaughton5j@wikimedia.org,24,Yes,12,288,3.8,Average
+201,5,Adolph,M,aroger5k@wikispaces.com,24,No,1,24,3.8,Average
+202,14,Eldridge,F ,ebailey5l@kickstarter.com,14,No,6,84,4.1,Good
+203,5,Tierney,F ,tshafe5m@google.ru,30,No,4,120,3.8,Average
+204,5,Rabi,M,rferrone5n@woothemes.com,30,No,5,150,3.8,Average
+205,9,Sabrina,M,smcnickle5o@artisteer.com,26,No,9,234,4.5,Best
+206,8,Kale,M,kjaumet5p@trellian.com,25,No,10,250,4.3,Good
+207,3,Isak,M,ihaggith5q@spiegel.de,13,Yes,13,169,4.8,Best
+208,18,Curtis,M,calders5r@indiegogo.com,23,No,13,299,4.9,Best
+209,5,Sybila,M,smacey5s@umich.edu,23,No,5,115,3.8,Average
+210,5,Casi,F ,cborgnol5t@ibm.com,11,Yes,3,33,3.8,Average
+211,8,Ediva,F ,egoldwater5u@miitbeian.gov.cn,25,Yes,9,225,4.3,Good
+212,14,Noe,F ,nmaccaughey5v@issuu.com,23,Yes,6,138,4.1,Good
+213,8,Nicol,M,nmacaless5w@furl.net,26,Yes,10,260,4.3,Good
+214,9,Garv,M,gczapla5x@twitpic.com,30,No,8,240,4.5,Best
+215,18,Beverlee,M,bdubique5y@dedecms.com,28,Yes,14,392,4.9,Best
+216,9,Rozalie,M,ritzig5z@ucla.edu,25,Yes,8,200,4.5,Best
+217,7,Carena,M,cast60@gravatar.com,25,No,12,300,4.4,Good
+218,9,Abrahan,M,ahenden61@slate.com,24,Yes,12,288,4.5,Best
+219,8,Leif,F ,lscothron62@printfriendly.com,24,Yes,9,216,4.3,Good
+220,5,Fitzgerald,M,flangford63@tiny.cc,18,Yes,10,180,3.8,Average
+221,18,Heinrick,F ,hpacey64@arstechnica.com,28,No,14,392,4.9,Best
+222,5,Waverly,F ,wpiner65@sphinn.com,29,Yes,5,145,3.8,Average
+223,5,Carissa,M,cbullan66@digg.com,30,Yes,1,30,3.8,Average
+224,14,Ram,M,rcleve67@wordpress.org,23,Yes,6,138,4.1,Good
+225,7,Darin,M,dlogsdale68@scientificamerican.com,22,Yes,12,264,4.4,Good
+226,1,Daffie,M,dwehnerr69@auda.org.au,27,No,11,297,4.3,Good
+227,7,Jinny,M,jgirardengo6a@newsvine.com,22,Yes,12,264,4.4,Good
+228,8,Sheffie,M,skareman6b@t.co,13,Yes,10,130,4.3,Good
+229,3,Mahalia,M,mrowney6c@boston.com,30,Yes,13,390,4.8,Best
+230,1,Ulick,F ,ukrout6d@nifty.com,24,No,11,264,4.3,Good
+231,1,Cymbre,M,cguppy6e@cafepress.com,18,No,11,198,4.3,Good
+232,5,Toinette,M,tocleary6f@mit.edu,17,No,2,34,3.8,Average
+233,3,Tobye,M,tkibblewhite6g@spiegel.de,17,Yes,13,221,4.8,Best
+234,1,Tamma,M,ttilburn6h@yahoo.com,19,No,11,209,4.3,Good
+235,14,Laurel,M,lrodear6i@mlb.com,21,Yes,6,126,4.1,Good
+236,18,Darcie,F ,dwhistlecraft6j@upenn.edu,13,No,14,182,4.9,Best
+237,7,Ive,F ,imobley6k@xing.com,10,No,12,120,4.4,Good
+238,5,Gamaliel,M,grishbrook6l@blogtalkradio.com,19,No,5,95,3.8,Average
+239,7,Rustin,F ,rdudderidge6m@harvard.edu,17,Yes,12,204,4.4,Good
+240,14,Tyrus,M,tparish6n@skyrock.com,29,Yes,6,174,4.1,Good
+241,1,Lindsey,F ,lhelsdon6o@moonfruit.com,17,No,11,187,4.3,Good
+242,5,Nani,M,npoel6p@bandcamp.com,26,No,12,312,3.8,Average
+243,5,Oates,F ,opristnor6q@livejournal.com,23,Yes,2,46,3.8,Average
+244,14,Sargent,M,sdies6r@wordpress.org,10,No,7,70,4.1,Good
+245,5,Genia,M,ggaunt6s@huffingtonpost.com,16,No,4,64,3.8,Average
+246,18,Rustie,M,rwhiskerd6t@smh.com.au,11,No,14,154,4.9,Best
+247,18,Lanette,F ,lextal6u@youku.com,24,No,14,336,4.9,Best
+248,8,Priscella,F ,pholbarrow6v@mayoclinic.com,26,Yes,10,260,4.3,Good
+249,18,Roxine,F ,rkrzysztofiak6w@cnn.com,14,Yes,14,196,4.9,Best
+250,5,Edita,M,edugdale6x@slashdot.org,21,No,1,21,3.8,Average
+251,9,Ethelred,F ,elafflin6y@tinypic.com,25,No,8,200,4.5,Best
+252,5,Simone,M,sepps6z@artisteer.com,12,Yes,5,60,3.8,Average
+253,9,Con,F ,clittler70@tamu.edu,15,No,8,120,4.5,Best
+254,14,Adella,M,awalklott71@nasa.gov,28,Yes,6,168,4.1,Good
+255,3,Craggie,M,ccadore72@yolasite.com,28,No,13,364,4.8,Best
+256,9,Querida,F ,qklesl73@meetup.com,21,Yes,9,189,4.5,Best
+257,9,Joshuah,M,jhiorn74@samsung.com,10,Yes,9,90,4.5,Best
+258,14,Odelle,M,ocadney75@networksolutions.com,17,Yes,7,119,4.1,Good
+259,5,Nady,M,ncoulbeck76@ocn.ne.jp,22,No,1,22,3.8,Average
+260,14,Cordey,F ,csellan77@mozilla.org,10,No,13,130,4.1,Good
+261,5,Leontyne,M,lhaacker78@godaddy.com,25,No,2,50,3.8,Average
+262,14,Eve,F ,estirley79@ow.ly,26,Yes,7,182,4.1,Good
+263,5,Emmit,F ,emostyn7a@behance.net,17,No,3,51,3.8,Average
+264,14,Brandice,M,bbartleet7b@pinterest.com,23,No,7,161,4.1,Good
+265,5,Vittoria,M,vcrummy7c@xrea.com,17,Yes,14,238,3.8,Average
+266,5,Violetta,F ,vorneblow7d@qq.com,24,Yes,4,96,3.8,Average
+267,7,Adelina,M,adeason7e@ted.com,21,Yes,12,252,4.4,Good
+268,1,Immanuel,M,ileeuwerink7f@rediff.com,14,No,2,28,4.3,Good
+269,5,Daniele,M,drudgley7g@forbes.com,10,No,4,40,3.8,Average
+270,9,Kelwin,F ,kflowerden7h@amazon.de,12,Yes,9,108,4.5,Best
+271,9,Leeland,M,ltaylder7i@biglobe.ne.jp,11,No,8,88,4.5,Best
+272,5,Bealle,M,bsimonard7j@feedburner.com,18,No,5,90,3.8,Average
+273,18,Abagael,M,aoldis7k@joomla.org,11,No,14,154,4.9,Best
+274,9,Agatha,M,afydoe7l@ebay.com,19,Yes,9,171,4.5,Best
+275,8,Lois,M,lcrouch7m@trellian.com,17,No,10,170,4.3,Good
+276,5,Newton,M,nmatthis7n@csmonitor.com,11,No,1,11,3.8,Average
+277,7,Mendy,M,mmaletratt7o@shinystat.com,15,Yes,12,180,4.4,Good
+278,14,Eleanora,M,eatack7p@myspace.com,29,Yes,4,116,4.1,Good
+279,5,Teresina,M,tmccurry7q@zimbio.com,11,Yes,3,33,3.8,Average
+280,9,Demetri,M,dsteenson7r@hexun.com,23,No,8,184,4.5,Best
+281,14,Lexy,M,lhorry7s@nbcnews.com,22,No,7,154,4.1,Good
+282,5,Dorie,M,dgorner7t@yandex.ru,17,No,3,51,3.8,Average
+283,5,Rolfe,F ,rmesnard7u@answers.com,14,Yes,2,28,3.8,Average
+284,5,Akim,M,afelton7v@nationalgeographic.com,26,Yes,5,130,3.8,Average
+285,5,Nariko,M,nrestieaux7w@about.com,18,No,3,54,3.8,Average
+286,6,Lydie,M,lfreemantle7x@simplemachines.org,19,Yes,3,57,2.4,Bad
+287,8,Symon,M,schilley7y@sphinn.com,20,Yes,10,200,4.3,Good
+288,9,Eirena,M,ebirch7z@dedecms.com,16,Yes,9,144,4.5,Best
+289,6,Gardiner,M,gremmers80@economist.com,27,No,5,135,2.4,Bad
+290,14,Edithe,F ,eabercromby81@t.co,19,Yes,7,133,4.1,Good
+291,6,Claresta,M,csantus82@shutterfly.com,17,No,2,34,2.4,Bad
+292,9,Dot,M,djewer83@miitbeian.gov.cn,19,Yes,9,171,4.5,Best
+293,3,Hillel,M,hgerlack84@nsw.gov.au,25,Yes,13,325,4.8,Best
+294,1,Jamison,M,jtrundle85@a8.net,23,Yes,11,253,4.3,Good
+295,6,Harriett,F ,hfarington86@usatoday.com,28,Yes,4,112,2.4,Bad
+296,14,Mathilde,F ,mmeininking87@ed.gov,17,Yes,7,119,4.1,Good
+297,6,Bronnie,M,blawes88@ihg.com,26,Yes,4,104,2.4,Bad
+298,9,Valentine,F ,vdymidowski89@multiply.com,23,Yes,4,92,4.5,Best
+299,6,Patricio,F ,pseydlitz8a@europa.eu,30,Yes,4,120,2.4,Bad
+300,9,Meggi,M,mramshaw8b@shareasale.com,29,No,9,261,4.5,Best
+301,9,Ulysses,M,uhawgood8c@simplemachines.org,11,No,9,99,4.5,Best
+302,6,Kit,F ,konians8d@bloglovin.com,15,No,2,30,2.4,Bad
+303,6,Alonso,F ,atipton8e@netscape.com,18,Yes,3,54,2.4,Bad
+304,6,Valery,M,vwormald8f@nsw.gov.au,10,No,1,10,2.4,Bad
+305,9,Peterus,M,pzanussii8g@admin.ch,23,No,8,184,4.5,Best
+306,6,Paulie,M,ppykett8h@livejournal.com,25,Yes,4,100,2.4,Bad
+307,6,Tripp,F ,tcroley8i@sphinn.com,16,No,2,32,2.4,Bad
+308,14,Eustace,F ,ekimbrey8j@reddit.com,15,No,7,105,4.1,Good
+309,6,Angus,M,arash8k@ted.com,25,No,5,125,2.4,Bad
+310,9,Jayne,M,jmakepeace8l@army.mil,28,Yes,9,252,4.5,Best
+311,14,Kaitlyn,M,kendacott8m@networksolutions.com,17,Yes,6,102,4.1,Good
+312,6,Cynthea,F ,churne8n@alibaba.com,24,Yes,5,120,2.4,Bad
+313,18,Letta,M,lfutcher8o@usa.gov,26,No,14,364,4.9,Best
+314,7,Clarine,M,ccordaroy8p@cbslocal.com,21,Yes,12,252,4.4,Good
+315,1,Lauritz,M,landrivel8q@thetimes.co.uk,10,No,11,110,4.3,Good
+316,14,Kym,F ,kbavidge8r@live.com,27,No,4,108,4.1,Good
+317,6,Conrade,M,cmacgraith8s@nbcnews.com,25,Yes,5,125,2.4,Bad
+318,6,Kenon,M,kmccrie8t@wired.com,29,No,3,87,2.4,Bad
+319,14,Ginelle,F ,gscottini8u@gnu.org,27,Yes,7,189,4.1,Good
+320,6,Johna,F ,jcosslett8v@mashable.com,20,Yes,2,40,2.4,Bad
+321,6,Lydie,M,llinster8w@lycos.com,14,No,1,14,2.4,Bad
+322,7,Theodore,F ,tace8x@tiny.cc,25,No,12,300,4.4,Good
+323,8,Wilek,M,wdudenie8y@nasa.gov,24,Yes,5,120,4.3,Good
+324,6,Fidela,M,fstpierre8z@yandex.ru,13,Yes,3,39,2.4,Bad
+325,14,Loralie,M,lmarte90@weather.com,30,Yes,7,210,4.1,Good
+326,6,Martha,F ,mmainston91@geocities.jp,20,No,1,20,2.4,Bad
+327,1,Marley,M,mgrishelyov92@buzzfeed.com,22,Yes,11,242,4.3,Good
+328,14,Lewiss,M,lmowett93@imageshack.us,18,Yes,7,126,4.1,Good
+329,3,Louise,M,ldibling94@google.co.uk,28,No,13,364,4.8,Best
+330,6,Faydra,M,fsherrum95@ox.ac.uk,28,No,1,28,2.4,Bad
+331,7,Mame,M,mdonaghy96@smugmug.com,21,Yes,12,252,4.4,Good
+332,6,Cordell,M,coakly97@constantcontact.com,27,Yes,2,54,2.4,Bad
+333,6,Errol,F ,ecreyke98@huffingtonpost.com,14,No,3,42,2.4,Bad
+334,9,Lenee,M,lmainland99@1und1.de,25,No,8,200,4.5,Best
+335,9,Roscoe,M,rbirtwistle9a@comsenz.com,13,No,8,104,4.5,Best
+336,1,Sukey,M,sboase9b@tiny.cc,23,Yes,5,115,4.3,Good
+337,6,Conrad,F ,cquadling9c@adobe.com,24,Yes,5,120,2.4,Bad
+338,14,Bamby,M,bfilkov9d@businessweek.com,24,No,6,144,4.1,Good
+339,9,Caril,M,cjeacock9e@cpanel.net,10,No,9,90,4.5,Best
+340,6,Nerta,M,nsigsworth9f@weebly.com,27,Yes,5,135,2.4,Bad
+341,1,Garvey,M,gberrigan9g@bing.com,10,No,11,110,4.3,Good
+342,7,Camila,M,cangel9h@accuweather.com,25,Yes,12,300,4.4,Good
+343,3,Dorrie,M,dklees9i@mail.ru,17,Yes,13,221,4.8,Best
+344,9,Mackenzie,M,mlonie9j@hexun.com,22,Yes,8,176,4.5,Best
+345,14,Fayette,F ,fbloggett9k@twitter.com,28,No,6,168,4.1,Good
+346,6,Kip,M,knorvel9l@paypal.com,24,Yes,2,48,2.4,Bad
+347,1,Dulce,M,dgrindrod9m@ifeng.com,15,No,12,180,4.3,Good
+348,6,Darleen,M,djoselevitz9n@nih.gov,25,No,2,50,2.4,Bad
+349,7,Nadine,M,ngunn9o@gizmodo.com,16,Yes,12,192,4.4,Good
+350,8,Edlin,M,eerrol9p@printfriendly.com,14,No,10,140,4.3,Good
+351,6,Barbara-anne,F ,bbog9q@over-blog.com,16,No,4,64,2.4,Bad
+352,18,Doll,M,dashingden9r@pen.io,16,No,14,224,4.9,Best
+353,18,Liv,F ,lcogle9s@earthlink.net,29,No,14,406,4.9,Best
+354,6,Mathilde,M,mnorcutt9t@tripadvisor.com,24,Yes,1,24,2.4,Bad
+355,6,Blondell,M,bdraxford9u@infoseek.co.jp,17,Yes,2,34,2.4,Bad
+356,9,Mozelle,M,mbromehed9v@wikispaces.com,17,No,14,238,4.5,Best
+357,8,Cris,M,cperone9w@purevolume.com,27,No,10,270,4.3,Good
+358,14,Nicky,M,nopfer9x@opera.com,23,No,6,138,4.1,Good
+359,7,Giffie,M,groot9y@digg.com,29,Yes,10,290,4.4,Good
+360,9,Steve,M,seicheler9z@paginegialle.it,20,No,8,160,4.5,Best
+361,3,Ardelia,F ,aboynesa0@opera.com,14,No,13,182,4.8,Best
+362,18,Betsy,M,bwaitha1@skyrock.com,15,No,5,75,4.9,Best
+363,14,Diarmid,M,dvilesa2@bizjournals.com,11,Yes,6,66,4.1,Good
+364,9,Norene,M,nchessera3@last.fm,25,No,9,225,4.5,Best
+365,8,Rupert,M,rrubia4@netvibes.com,29,No,10,290,4.3,Good
+366,18,Aguste,M,amarriagea5@dagondesign.com,12,Yes,14,168,4.9,Best
+367,18,Frankie,M,fhannabya6@engadget.com,24,No,5,120,4.9,Best
+368,9,Hildegaard,M,hdrawmera7@indiegogo.com,30,No,6,180,4.5,Best
+369,3,Shem,M,stathacotta8@mtv.com,17,Yes,13,221,4.8,Best
+370,8,Brockie,M,binesona9@sourceforge.net,12,Yes,10,120,4.3,Good
+371,3,Zackariah,M,zlotheringtonaa@sogou.com,12,No,13,156,4.8,Best
+372,3,Brok,F ,btoombesab@gravatar.com,10,No,13,130,4.8,Best
+373,1,Dorian,F ,dashurstac@printfriendly.com,12,No,3,36,4.3,Good
+374,14,Shauna,F ,ssperingad@reverbnation.com,23,Yes,6,138,4.1,Good
+375,18,Curt,F ,cguideraae@soundcloud.com,26,Yes,14,364,4.9,Best
+376,8,Shay,M,seathertonaf@blogger.com,30,No,10,300,4.3,Good
+377,18,Dorthy,F ,djacobbeag@census.gov,24,No,14,336,4.9,Best
+378,9,Veronika,M,vbourthouloumeah@bloomberg.com,27,No,1,27,4.5,Best
+379,7,Celesta,F ,ccorteneyai@telegraph.co.uk,23,Yes,12,276,4.4,Good
+380,14,Ian,M,ibataliniaj@w3.org,16,No,7,112,4.1,Good
+381,18,Seumas,M,srheamak@hc360.com,22,No,3,66,4.9,Best
+382,18,Roman,M,rgutersonal@flickr.com,15,Yes,14,210,4.9,Best
+383,14,Liz,F ,lelsmeream@bbc.co.uk,17,No,7,119,4.1,Good
+384,14,Nancee,M,nkensallan@facebook.com,13,Yes,6,78,4.1,Good
+385,1,Torre,M,tdelicateao@prnewswire.com,27,Yes,11,297,4.3,Good
+386,8,Lila,M,lmacdiarmidap@goo.ne.jp,14,No,10,140,4.3,Good
+387,14,Ulysses,F ,uwalfordaq@reference.com,27,Yes,6,162,4.1,Good
+388,3,Jobie,M,jcrichmerar@google.nl,29,No,13,377,4.8,Best
+389,3,Jerrie,M,jaldertonas@cdbaby.com,14,No,6,84,4.8,Best
+390,14,Carrol,F ,cathersmithat@ifeng.com,30,No,6,180,4.1,Good
+391,18,Kass,M,kcookseyau@army.mil,28,Yes,13,364,4.9,Best
+392,9,Jim,M,jbleasbyav@cargocollective.com,21,Yes,9,189,4.5,Best
+393,14,Francisca,M,fmenendezaw@php.net,13,Yes,6,78,4.1,Good
+394,18,Brew,F ,bdafyddax@acquirethisname.com,29,No,5,145,4.9,Best
+395,7,Emilia,M,equibellay@nytimes.com,17,Yes,12,204,4.4,Good
+396,1,Rosemary,M,rtrussleraz@vimeo.com,26,No,11,286,4.3,Good
+397,18,Brana,M,banniceb0@hhs.gov,12,No,3,36,4.9,Best
+398,18,Kaleena,M,kstonebanksb1@state.gov,22,No,3,66,4.9,Best
+399,8,Marissa,M,mriochb2@google.pl,23,Yes,10,230,4.3,Good
+400,14,Derk,M,ddelgadillob3@shutterfly.com,14,Yes,7,98,4.1,Good
+401,8,Nanice,F ,nbochb4@nytimes.com,15,Yes,10,150,4.3,Good
+402,18,Ibbie,M,ilegallob5@nih.gov,14,No,3,42,4.9,Best
+403,9,Keri,M,kgayb6@liveinternet.ru,13,No,8,104,4.5,Best
+404,18,Rubia,M,rsilversmidb7@desdev.cn,21,No,2,42,4.9,Best
+405,18,Wynny,M,wrounceb8@intel.com,21,No,1,21,4.9,Best
+406,9,King,M,khabishawb9@histats.com,24,No,9,216,4.5,Best
+407,18,Alessandro,M,apashanba@stumbleupon.com,19,No,14,266,4.9,Best
+408,18,Wilmette,M,wellesmerebb@altervista.org,23,No,14,322,4.9,Best
+409,18,Harrie,F ,hrevenbc@zdnet.com,11,Yes,1,11,4.9,Best
+410,18,Millisent,M,medgesonbd@is.gd,27,Yes,14,378,4.9,Best
+411,18,Karlis,M,ksorelbe@sphinn.com,24,Yes,2,48,4.9,Best
+412,15,Marthe,M,mcoumbebf@phoca.cz,25,No,8,200,4.2,Good
+413,1,Ariela,F ,agaufordbg@cafepress.com,25,No,11,275,4.3,Good
+414,1,Giff,F ,gpaulerbh@tmall.com,17,No,11,187,4.3,Good
+415,18,Truda,M,tmellingsbi@oracle.com,22,No,2,44,4.9,Best
+416,18,Nicola,M,nurianbj@patch.com,29,No,2,58,4.9,Best
+417,18,Modestine,F ,mcronbk@wsj.com,30,No,4,120,4.9,Best
+418,8,Rodolphe,M,rokeshottbl@facebook.com,26,Yes,10,260,4.3,Good
+419,18,Kimberlee,F ,kroneybm@odnoklassniki.ru,26,No,11,286,4.9,Best
+420,18,Coraline,M,cmildenhallbn@joomla.org,15,No,5,75,4.9,Best
+421,14,Danya,M,dmccafferkybo@cam.ac.uk,11,Yes,6,66,4.1,Good
+422,18,Hilton,M,hbuchebp@loc.gov,29,No,5,145,4.9,Best
+423,14,Grover,M,gchallenorbq@arizona.edu,12,No,7,84,4.1,Good
+424,14,Jasper,M,jreddiebr@columbia.edu,16,Yes,6,96,4.1,Good
+425,1,Trip,M,tpenniallbs@reverbnation.com,19,No,11,209,4.3,Good
+426,18,Lazaro,M,lnanglebt@csmonitor.com,11,No,14,154,4.9,Best
+427,14,Pru,F ,ppietrowskibu@state.gov,23,No,12,276,4.1,Good
+428,18,Janelle,M,jgoodredgebv@cloudflare.com,16,Yes,4,64,4.9,Best
+429,15,Blanca,M,bleggatebw@example.com,15,No,9,135,4.2,Good
+430,1,Neille,M,nwraightebx@usgs.gov,11,No,11,121,4.3,Good
+431,8,Kirk,M,kblasikby@dailymail.co.uk,15,No,10,150,4.3,Good
+432,8,Vernen,F ,vmarkebz@icq.com,18,Yes,10,180,4.3,Good
+433,18,Kamilah,F ,krosinc0@mapy.cz,23,No,4,92,4.9,Best
+434,18,Devland,M,dstorrierc1@jigsy.com,16,Yes,4,64,4.9,Best
+435,3,Leonie,F ,lprendivillec2@blogtalkradio.com,12,No,13,156,4.8,Best
+436,8,Mariellen,M,mshoulderc3@discovery.com,21,Yes,10,210,4.3,Good
+437,18,Sidonnie,M,sbickerstaffc4@yahoo.com,10,Yes,1,10,4.9,Best
+438,3,Erastus,F ,eroddanc5@un.org,14,Yes,13,182,4.8,Best
+439,14,Valaria,M,vweldc6@cbslocal.com,13,No,6,78,4.1,Good
+440,18,Thacher,M,tlatec7@gmpg.org,26,No,4,104,4.9,Best
+441,18,Cati,F ,cfosterc8@mashable.com,26,No,14,364,4.9,Best
+442,15,Demetre,M,dodoranc9@usatoday.com,11,Yes,9,99,4.2,Good
+443,14,Perri,M,phorribineca@nationalgeographic.com,26,No,7,182,4.1,Good
+444,14,Shelden,M,skellettcb@adobe.com,18,No,7,126,4.1,Good
+445,18,Lemmie,M,lbarnishcc@google.ca,17,No,5,85,4.9,Best
+446,18,Gabbie,M,gmaultcd@opera.com,20,No,5,100,4.9,Best
+447,14,Josie,F ,jollisce@edublogs.org,27,No,6,162,4.1,Good
+448,18,Al,F ,apenwellcf@google.co.jp,18,No,5,90,4.9,Best
+449,14,Sanderson,F ,sjaycockcg@senate.gov,18,No,6,108,4.1,Good
+450,18,Jobyna,M,jwermerlingch@51.la,21,Yes,14,294,4.9,Best
+451,14,Glory,M,gdarnbrookci@woothemes.com,18,No,7,126,4.1,Good
+452,7,Jolynn,M,jlempertzcj@google.de,25,No,12,300,4.4,Good
+453,3,Sybil,F ,soffack@census.gov,19,No,13,247,4.8,Best
+454,18,Kingsly,F ,kpavolillocl@google.com,15,No,2,30,4.9,Best
+455,10,Val,M,vsamwellcm@si.edu,16,Yes,6,96,2.5,Bad
+456,11,Arron,M,amaincn@unc.edu,28,No,13,364,3.8,Average
+457,12,Tommi,M,tgrundellco@umn.edu,22,No,9,198,4,Good
+458,13,Mark,M,mrubbertcp@wisc.edu,15,Yes,1,15,3.9,Average
+459,7,Giacopo,M,gomolancq@myspace.com,26,No,12,312,4.4,Good
+460,3,Moyna,M,mraggcr@friendfeed.com,26,No,13,338,4.8,Best
+461,18,Janetta,F ,jmartinetcs@irs.gov,16,Yes,4,64,4.9,Best
+462,1,Ricard,F ,rmorelandct@springer.com,26,Yes,11,286,4.3,Good
+463,18,Leicester,M,ldemaidcu@chron.com,26,No,11,286,4.9,Best
+464,15,Dian,M,dvautreycv@yahoo.co.jp,19,Yes,9,171,4.2,Good
+465,8,Willetta,M,wkettlesingcw@delicious.com,16,No,10,160,4.3,Good
+466,10,Herbie,M,hduffcx@cargocollective.com,25,No,7,175,2.5,Bad
+467,11,Humfrid,F ,habbyscy@forbes.com,19,Yes,4,76,3.8,Average
+468,12,Belle,M,beskellcz@tripod.com,26,No,5,130,4,Good
+469,10,Jaye,M,jsommertond0@comcast.net,16,Yes,6,96,2.5,Bad
+470,11,Rhea,M,rstillgoed1@symantec.com,30,Yes,3,90,3.8,Average
+471,12,Eduardo,M,ebassinghamd2@icio.us,19,Yes,9,171,4,Good
+472,13,Krissy,M,kcasleyd3@etsy.com,25,Yes,9,225,3.9,Average
+473,10,Jordon,F ,jwisdend4@example.com,11,Yes,7,77,2.5,Bad
+474,11,Gerek,M,graddenburyd5@craigslist.org,28,Yes,9,252,3.8,Average
+475,12,Deloris,F ,dsloyand6@chicagotribune.com,25,Yes,8,200,4,Good
+476,13,Marci,F ,mskerrettd7@is.gd,25,Yes,1,25,3.9,Average
+477,1,Jules,F ,jcordesd8@cpanel.net,28,No,11,308,4.3,Good
+478,1,Larine,M,lrewcasselld9@dedecms.com,26,No,11,286,4.3,Good
+479,18,Horatia,F ,hfarringtonda@ox.ac.uk,22,Yes,4,88,4.9,Best
+480,15,Lou,M,lwalkowskidb@ucsd.edu,29,Yes,9,261,4.2,Good
+481,18,Charmian,M,cquodlingdc@surveymonkey.com,15,Yes,11,165,4.9,Best
+482,18,Base,M,bchazettedd@salon.com,18,No,2,36,4.9,Best
+483,18,Devonna,F ,dcondyde@washingtonpost.com,15,Yes,14,210,4.9,Best
+484,7,Milo,M,meastmandf@nba.com,29,Yes,12,348,4.4,Good
+485,11,Leighton,M,lfisbydg@fc2.com,13,Yes,6,78,3.8,Average
+486,1,Cristiano,M,cjeeksdh@a8.net,17,No,11,187,4.3,Good
+487,3,Jacky,M,jmacgaughydi@bbc.co.uk,14,No,13,182,4.8,Best
+488,1,Karmen,M,kcharlesworthdj@fda.gov,29,No,11,319,4.3,Good
+489,18,Essy,M,emeddingsdk@amazon.com,15,No,5,75,4.9,Best
+490,3,Berte,M,btrencherdl@stumbleupon.com,29,No,13,377,4.8,Best
+491,7,Isak,M,igillettdm@vkontakte.ru,30,No,12,360,4.4,Good
+492,15,Andriana,M,aiacavonedn@foxnews.com,26,Yes,9,234,4.2,Good
+493,1,Dare,M,dlardeurdo@globo.com,14,No,3,42,4.3,Good
+494,1,Archibaldo,M,aharkusdp@nih.gov,21,No,1,21,4.3,Good
+495,3,Innis,M,icornierdq@51.la,25,Yes,5,125,4.8,Best
+496,8,Wilburt,M,wradloffdr@mashable.com,24,Yes,10,240,4.3,Good
+497,15,Legra,M,lpetruskads@cbsnews.com,19,Yes,8,152,4.2,Good
+498,8,La verne,F ,lbispdt@furl.net,23,Yes,3,69,4.3,Good
+499,1,Filippa,M,fnixdu@cloudflare.com,11,No,7,77,4.3,Good
+500,7,Gill,F ,gkolodziejskidv@yolasite.com,28,Yes,12,336,4.4,Good
+501,1,Aridatha,M,acharnleydw@opensource.org,13,Yes,7,91,4.3,Good
+502,1,Dionne,M,davesdx@multiply.com,21,Yes,5,105,4.3,Good
+503,15,Sharlene,M,spermaindy@youku.com,16,Yes,8,128,4.2,Good
+504,15,Vanna,F ,vgisburnedz@sfgate.com,29,Yes,8,232,4.2,Good
+505,1,Roderick,M,rlovelacee0@unc.edu,12,Yes,11,132,4.3,Good
+506,18,Willyt,M,wpetraccie1@liveinternet.ru,24,No,14,336,4.9,Best
+507,3,Fredrika,M,fschwandermanne2@wired.com,14,Yes,13,182,4.8,Best
+508,1,Vitia,M,vdunbobbine3@cyberchimps.com,21,No,2,42,4.3,Good
+509,18,Ursala,F ,ufelminghame4@narod.ru,15,No,14,210,4.9,Best
+510,15,Dolli,F ,drockinghame5@stanford.edu,17,Yes,9,153,4.2,Good
+511,1,Ruy,M,rpithcocke6@google.pl,10,Yes,14,140,4.3,Good
+512,8,Saloma,M,swebbe7@bbc.co.uk,11,No,10,110,4.3,Good
+513,1,Jeanne,F ,jferree8@archive.org,28,No,11,308,4.3,Good
+514,15,Bear,M,bcruddase9@about.me,22,No,9,198,4.2,Good
+515,1,Cesare,M,cguerinea@mozilla.org,24,Yes,2,48,4.3,Good
+516,1,Dasya,F ,dpentineb@arizona.edu,18,Yes,6,108,4.3,Good
+517,1,Brant,F ,blewisec@tamu.edu,26,Yes,11,286,4.3,Good
+518,1,Jayme,M,jhoneyghaned@theguardian.com,14,Yes,3,42,4.3,Good
+519,1,Gib,M,ghastwellee@hostgator.com,14,No,4,56,4.3,Good
+520,3,Adrianne,M,awigzellef@jalbum.net,11,No,12,132,4.8,Best
+521,11,Cristobal,F ,crameg@myspace.com,22,No,6,132,3.8,Average
+522,7,Judon,M,jbindeneh@columbia.edu,26,No,3,78,4.4,Good
+523,18,Haily,M,hdursleyei@webnode.com,16,Yes,14,224,4.9,Best
+524,11,David,M,dandrioniej@oaic.gov.au,29,Yes,7,203,3.8,Average
+525,18,Grange,M,gfeehilyek@marriott.com,20,Yes,14,280,4.9,Best
+526,1,Cassandry,M,cchalkerel@umich.edu,10,Yes,5,50,4.3,Good
+527,11,Carolin,F ,cbehneckeem@cisco.com,22,No,7,154,3.8,Average
+528,1,Xerxes,M,xsiderfinen@npr.org,14,Yes,4,56,4.3,Good
+529,1,Vita,M,vorletoneo@umn.edu,16,Yes,12,192,4.3,Good
+530,1,Ambur,M,adrohaneep@soup.io,24,No,4,96,4.3,Good
+531,11,Jackson,F ,jbowleswortheq@fotki.com,10,Yes,7,70,3.8,Average
+532,18,Dominique,F ,ddicksoner@google.ru,18,Yes,14,252,4.9,Best
+533,1,Nariko,M,ndodsworthes@disqus.com,27,Yes,4,108,4.3,Good
+534,1,Marlowe,M,mgarahanet@goodreads.com,20,Yes,1,20,4.3,Good
+535,1,Carolan,F ,cellisseu@theglobeandmail.com,26,No,7,182,4.3,Good
+536,1,Garrard,M,gbrelsfordev@wordpress.org,16,Yes,12,192,4.3,Good
+537,8,Livvie,M,lparcellew@dropbox.com,21,Yes,10,210,4.3,Good
+538,1,Tally,M,tbiltonex@opensource.org,20,No,4,80,4.3,Good
+539,1,Jeffy,M,jmarquotey@zimbio.com,26,Yes,4,104,4.3,Good
+540,1,Genvieve,M,gharremaez@yellowpages.com,25,No,1,25,4.3,Good
+541,1,Catlee,M,cdeveyf0@sbwire.com,21,No,4,84,4.3,Good
+542,1,Mohammed,M,migof1@last.fm,25,No,4,100,4.3,Good
+543,1,Annalee,F ,aealesf2@admin.ch,10,Yes,2,20,4.3,Good
+544,12,Colet,M,cscarthf3@google.co.jp,26,No,7,182,4,Good
+545,12,Cleopatra,M,ciohananoff4@about.com,14,Yes,6,84,4,Good
+546,7,Anatollo,M,acossansf5@alexa.com,28,Yes,12,336,4.4,Good
+547,8,Gallagher,M,gvittef6@fotki.com,20,Yes,10,200,4.3,Good
+548,1,Mireielle,M,mbradleyf7@ox.ac.uk,23,Yes,4,92,4.3,Good
+549,3,Barr,F ,bbornef8@aboutads.info,27,No,10,270,4.8,Best
+550,1,Barnaby,M,btoppasf9@businesswire.com,15,No,3,45,4.3,Good
+551,12,Odelinda,F ,obullochfa@flickr.com,16,Yes,7,112,4,Good
+552,15,Addie,M,atomleyfb@rambler.ru,29,No,9,261,4.2,Good
+553,1,Brier,F ,bpurbrickfc@amazon.co.uk,21,Yes,2,42,4.3,Good
+554,12,Dawn,M,ddanevfd@blogs.com,22,Yes,7,154,4,Good
+555,7,Bud,F ,bblackfordfe@telegraph.co.uk,11,Yes,9,99,4.4,Good
+556,1,Batsheva,M,breubenff@addthis.com,22,Yes,2,44,4.3,Good
+557,8,Zelda,M,zrosensteinfg@techcrunch.com,21,Yes,6,126,4.3,Good
+558,1,Lorine,M,lcanetfh@tumblr.com,13,Yes,4,52,4.3,Good
+559,18,Egor,M,emcelhinneyfi@youtube.com,23,No,14,322,4.9,Best
+560,8,Seward,F ,sledurfj@wikispaces.com,15,Yes,2,30,4.3,Good
+561,18,Bunny,M,bcarissfk@blogspot.com,12,Yes,14,168,4.9,Best
+562,15,Garrot,M,gafieldfl@wisc.edu,29,No,9,261,4.2,Good
+563,8,Arlen,M,adevotefm@ycombinator.com,14,Yes,10,140,4.3,Good
+564,1,Shandeigh,M,sravelusfn@time.com,29,Yes,4,116,4.3,Good
+565,1,Kirstyn,M,ktroughtonfo@biglobe.ne.jp,24,No,1,24,4.3,Good
+566,4,Sheree,M,sdennidgefp@google.de,20,Yes,4,80,2.1,Bad
+567,4,Raynell,M,rberkelayfq@360.cn,17,No,1,17,2.1,Bad
+568,4,Deidre,M,deglingtonfr@twitter.com,20,Yes,4,80,2.1,Bad
+569,12,Hillie,M,habrahamifs@hud.gov,29,Yes,6,174,4,Good
+570,4,Evered,F ,egoodhayft@google.cn,15,No,3,45,2.1,Bad
+571,18,Thorny,F ,thaddenfu@people.com.cn,25,Yes,14,350,4.9,Best
+572,8,Ripley,F ,rsumsionfv@miibeian.gov.cn,20,No,10,200,4.3,Good
+573,4,Ethan,M,eelpheefw@auda.org.au,22,Yes,5,110,2.1,Bad
+574,12,Claudetta,M,ctweddellfx@diigo.com,26,Yes,3,78,4,Good
+575,4,Wells,M,wbainefy@qq.com,27,No,3,81,2.1,Bad
+576,4,Antin,M,athayrefz@smh.com.au,22,No,12,264,2.1,Bad
+577,1,Moyra,M,moliphandg0@freewebs.com,27,Yes,11,297,4.3,Good
+578,1,Emelyne,F ,ehookg1@weather.com,26,Yes,11,286,4.3,Good
+579,13,Darcie,M,dlinebargerg2@fastcompany.com,20,No,6,120,3.9,Average
+580,4,Sayer,M,sferrieg3@dmoz.org,29,Yes,2,58,2.1,Bad
+581,4,Fidel,M,fcastelletg4@ebay.co.uk,21,No,4,84,2.1,Bad
+582,4,Johanna,M,jgiddonsg5@marriott.com,20,No,3,60,2.1,Bad
+583,13,Winne,M,wbarnwallg6@accuweather.com,28,No,6,168,3.9,Average
+584,4,Raquel,M,rleavoldg7@rakuten.co.jp,19,No,4,76,2.1,Bad
+585,1,Lek,M,lcleallg8@disqus.com,24,Yes,11,264,4.3,Good
+586,4,Kristy,M,ktolsong9@goo.gl,20,Yes,12,240,2.1,Bad
+587,4,Miguela,M,mbansalga@dot.gov,18,Yes,1,18,2.1,Bad
+588,4,Roman,M,rdagggb@blog.com,20,Yes,3,60,2.1,Bad
+589,13,Moreen,F ,mbatrimgc@wired.com,29,Yes,7,203,3.9,Average
+590,15,Minor,M,mzappelgd@booking.com,19,No,8,152,4.2,Good
+591,4,Kitty,F ,kheddenge@goodreads.com,20,Yes,5,100,2.1,Bad
+592,13,Gracie,M,gcorrigangf@behance.net,12,Yes,7,84,3.9,Average
+593,4,Elisa,M,erangergg@desdev.cn,12,No,3,36,2.1,Bad
+594,4,Bunny,M,btyregh@123-reg.co.uk,19,Yes,5,95,2.1,Bad
+595,4,Van,M,voconnollygi@stumbleupon.com,22,No,1,22,2.1,Bad
+596,4,Dee dee,M,dpuckinghornegj@sina.com.cn,11,No,1,11,2.1,Bad
+597,18,Etty,M,eyanukgk@unc.edu,24,No,14,336,4.9,Best
+598,4,Doro,M,dthezegl@google.fr,18,Yes,1,18,2.1,Bad
+599,13,Stephie,M,sdorotgm@examiner.com,22,No,7,154,3.9,Average
+600,4,Quinta,F ,qbinnergn@hexun.com,16,No,3,48,2.1,Bad
+601,1,Roobbie,M,rklaffgo@usnews.com,14,No,11,154,4.3,Good
+602,13,Carina,F ,catkinsongp@mapy.cz,10,Yes,6,60,3.9,Average
+603,1,Griffin,M,gsammesgq@newsvine.com,30,No,11,330,4.3,Good
+604,4,Kipper,M,kwixongr@oaic.gov.au,26,No,1,26,2.1,Bad
+605,4,Alister,M,amaguiregs@altervista.org,30,Yes,5,150,2.1,Bad
+606,15,Aviva,M,ahegleygt@ovh.net,23,Yes,8,184,4.2,Good
+607,13,Minne,M,mrouffgu@ucla.edu,30,Yes,13,390,3.9,Average
+608,8,Yalonda,M,ysladgv@cocolog-nifty.com,27,No,10,270,4.3,Good
+609,15,Palmer,M,pboylesgw@google.fr,13,No,8,104,4.2,Good
+610,4,Harry,M,hbootesgx@purevolume.com,25,No,1,25,2.1,Bad
+611,7,Gretel,M,gdurnogy@ucoz.com,10,No,10,100,4.4,Good
+612,15,Marianne,F ,mflegggz@amazonaws.com,28,Yes,9,252,4.2,Good
+613,4,Dulcie,M,dchittockh0@constantcontact.com,28,Yes,4,112,2.1,Bad
+614,3,Sydel,F ,sgatemanh1@wisc.edu,10,Yes,13,130,4.8,Best
+615,4,Stanislaus,F ,sboarleysonh2@narod.ru,23,No,5,115,2.1,Bad
+616,4,Alena,M,adelahuntyh3@salon.com,23,Yes,5,115,2.1,Bad
+617,13,Goldy,M,gmcelweeh4@drupal.org,15,No,1,15,3.9,Average
+618,4,Barris,M,blinehamh5@gov.uk,19,No,8,152,2.1,Bad
+619,4,Sidoney,M,swithullh6@parallels.com,18,Yes,3,54,2.1,Bad
+620,4,Lavena,M,ldobbieh7@twitter.com,25,No,7,175,2.1,Bad
+621,11,Bud,M,bschuckh8@hatena.ne.jp,26,Yes,1,26,3.8,Average
+622,13,Antons,M,ameesh9@state.gov,24,No,7,168,3.9,Average
+623,11,Arvin,M,ajurzykha@weibo.com,28,Yes,9,252,3.8,Average
+624,11,Cathryn,M,ceastmeadhb@upenn.edu,12,Yes,1,12,3.8,Average
+625,7,Adela,M,avasselhc@google.com,17,Yes,7,119,4.4,Good
+626,11,Karrah,M,kdouglisshd@mayoclinic.com,29,Yes,1,29,3.8,Average
+627,11,Kenneth,F ,klebromhe@nih.gov,14,Yes,1,14,3.8,Average
+628,11,Olympie,F ,ohawkshawhf@independent.co.uk,21,Yes,2,42,3.8,Average
+629,18,Kristal,M,kbeaverhg@nymag.com,25,No,14,350,4.9,Best
+630,13,Ernestine,F ,edorkenshh@theatlantic.com,28,No,7,196,3.9,Average
+631,13,Ludovika,F ,lhindrickhi@hao123.com,18,No,6,108,3.9,Average
+632,13,Suzanna,F ,shukehj@scribd.com,20,Yes,12,240,3.9,Average
+633,11,Annette,M,anormanvillhk@irs.gov,28,No,1,28,3.8,Average
+634,11,Gilligan,M,ggreyhl@twitter.com,12,No,7,84,3.8,Average
+635,15,Ines,F ,islarkhm@nps.gov,23,Yes,9,207,4.2,Good
+636,15,Bunnie,M,bduboishn@hud.gov,29,Yes,2,58,4.2,Good
+637,11,Johanna,F ,jhowlinho@unesco.org,13,No,3,39,3.8,Average
+638,7,Farlie,M,fcalrowhp@smugmug.com,26,No,12,312,4.4,Good
+639,8,Geoffrey,M,gpinerhq@google.co.uk,17,Yes,10,170,4.3,Good
+640,3,Martica,M,mfiddymonthr@istockphoto.com,16,No,6,96,4.8,Best
+641,3,Arthur,M,acadamyhs@shareasale.com,20,No,13,260,4.8,Best
+642,8,Yves,M,yfieldhouseht@uol.com.br,12,Yes,10,120,4.3,Good
+643,11,Lynde,M,lcaspellhu@google.com.hk,10,No,5,50,3.8,Average
+644,18,Euphemia,M,egoodlifehv@google.it,30,No,14,420,4.9,Best
+645,11,Lucius,M,lfradgleyhw@hugedomains.com,11,Yes,1,11,3.8,Average
+646,15,Rolland,M,rwaistallhx@weibo.com,16,Yes,8,128,4.2,Good
+647,13,Barris,M,bbegleyhy@cpanel.net,14,Yes,7,98,3.9,Average
+648,11,Vinson,M,vcoughtreyhz@ifeng.com,14,Yes,1,14,3.8,Average
+649,11,Moselle,M,mbeekei0@telegraph.co.uk,14,No,2,28,3.8,Average
+650,13,Linoel,M,lparmenteri1@zimbio.com,16,No,7,112,3.9,Average
+651,11,Ursula,M,upharei2@delicious.com,21,No,2,42,3.8,Average
+652,1,Galvan,M,gwilcheri3@shinystat.com,11,No,11,121,4.3,Good
+653,13,Steffen,M,sresdalei4@microsoft.com,30,Yes,7,210,3.9,Average
+654,11,Frans,M,fbathursti5@technorati.com,19,No,4,76,3.8,Average
+655,11,Rhonda,F ,rkoheni6@51.la,18,Yes,5,90,3.8,Average
+656,11,Tris,M,tmacdunlevyi7@yahoo.com,12,Yes,5,60,3.8,Average
+657,3,Bunny,M,bporritti8@cbsnews.com,13,No,13,169,4.8,Best
+658,13,Fair,M,fhuertasi9@meetup.com,19,No,7,133,3.9,Average
+659,18,Raviv,F ,rriggollia@drupal.org,18,No,14,252,4.9,Best
+660,13,Scott,M,sballendineib@sfgate.com,19,Yes,7,133,3.9,Average
+661,13,Leonhard,F ,lbarcaic@163.com,25,Yes,3,75,3.9,Average
+662,1,Peggy,M,pcordeletid@1und1.de,26,No,3,78,4.3,Good
+663,13,Clint,F ,cbesterie@imdb.com,29,No,6,174,3.9,Average
+664,11,Bella,F ,bmoncrefeif@nhs.uk,23,No,2,46,3.8,Average
+665,11,Holden,M,hsaltsbergerig@irs.gov,26,Yes,5,130,3.8,Average
+666,1,Kimmi,F ,kbranfordih@flickr.com,27,No,11,297,4.3,Good
+667,7,Derwin,M,dwaslingii@cbsnews.com,27,No,12,324,4.4,Good
+668,11,Gene,F ,ghazardij@barnesandnoble.com,13,No,13,169,3.8,Average
+669,11,Cara,M,clamieik@parallels.com,24,No,1,24,3.8,Average
+670,15,Shalna,F ,scapstaffil@techcrunch.com,13,No,9,117,4.2,Good
+671,11,Baryram,M,bcundyim@printfriendly.com,17,Yes,14,238,3.8,Average
+672,15,Elly,M,ecrawin@vimeo.com,23,Yes,9,207,4.2,Good
+673,11,Cristin,M,cperigoeio@sbwire.com,19,No,5,95,3.8,Average
+674,11,Klarrisa,M,kaceip@theatlantic.com,15,No,2,30,3.8,Average
+675,8,Raff,M,rfenechiq@nps.gov,27,Yes,10,270,4.3,Good
+676,18,Giselle,M,gboylanir@patch.com,24,No,14,336,4.9,Best
+677,13,Brandie,F ,barmanis@slate.com,15,Yes,14,210,3.9,Average
+678,11,Eduard,F ,eturvilleit@indiatimes.com,13,Yes,4,52,3.8,Average
+679,13,Nettle,M,nalbeniu@redcross.org,15,Yes,14,210,3.9,Average
+680,8,Gerard,M,gcauderlieiv@hp.com,17,Yes,10,170,4.3,Good
+681,11,Auberta,M,amedewayiw@alibaba.com,24,No,14,336,3.8,Average
+682,11,Halette,M,hwyldboreix@pen.io,20,Yes,3,60,3.8,Average
+683,1,Ginnie,M,gboschmanniy@soundcloud.com,26,No,11,286,4.3,Good
+684,13,Evelyn,M,emurcottiz@tinyurl.com,26,Yes,14,364,3.9,Average
+685,13,Olympie,M,ojedrachowiczj0@timesonline.co.uk,22,No,2,44,3.9,Average
+686,11,Jenni,M,jmartinovicj1@adobe.com,10,Yes,4,40,3.8,Average
+687,1,Nevins,F ,nzecchettij2@fda.gov,26,No,4,104,4.3,Good
+688,11,Corrine,M,cbendallj3@behance.net,13,Yes,1,13,3.8,Average
+689,11,Cloe,F ,csandlej4@ezinearticles.com,30,Yes,4,120,3.8,Average
+690,1,Brittani,F ,bmcphelimj5@newsvine.com,11,No,11,121,4.3,Good
+691,7,Josh,F ,jsineathj6@abc.net.au,21,Yes,10,210,4.4,Good
+692,1,Shirleen,F ,sstealyj7@multiply.com,10,No,11,110,4.3,Good
+693,15,Jessalin,M,jperrygoj8@csmonitor.com,22,Yes,8,176,4.2,Good
+694,15,Darleen,M,dkubistaj9@storify.com,12,No,10,120,4.2,Good
+695,11,Duff,M,dfrancilloja@seattletimes.com,14,No,9,126,3.8,Average
+696,1,Malinde,F ,mroubyjb@nbcnews.com,15,Yes,11,165,4.3,Good
+697,11,Rhonda,M,rmendesjc@mail.ru,12,No,1,12,3.8,Average
+698,11,Victoir,M,vcargilljd@example.com,19,Yes,1,19,3.8,Average
+699,11,Jae,M,jschoolingje@blogs.com,22,Yes,5,110,3.8,Average
+700,15,Tanhya,M,tpriterjf@youtu.be,15,Yes,8,120,4.2,Good
+701,4,Aubrie,M,asoutheyjg@microsoft.com,19,No,4,76,2.1,Bad
+702,5,Malchy,M,mchamberlinjh@fc2.com,11,Yes,1,11,3.8,Average
+703,6,Rani,M,rdowji@si.edu,30,No,3,90,2.4,Bad
+704,15,Dian,M,dimpletonjj@amazon.de,25,Yes,8,200,4.2,Good
+705,15,Gray,M,gbaultjk@bigcartel.com,17,No,9,153,4.2,Good
+706,7,Giselle,M,gvalentinjl@cbc.ca,13,Yes,5,65,4.4,Good
+707,18,Anallese,M,astreetenjm@ed.gov,10,No,14,140,4.9,Best
+708,7,Lavena,M,lgappjn@techcrunch.com,14,No,5,70,4.4,Good
+709,13,Merrili,M,mmelladewjo@a8.net,29,Yes,7,203,3.9,Average
+710,15,Godfry,M,gdormerjp@cdc.gov,20,Yes,3,60,4.2,Good
+711,8,William,F ,wdoughertyjq@histats.com,15,No,1,15,4.3,Good
+712,3,Julio,M,jtisonjr@last.fm,15,Yes,8,120,4.8,Best
+713,15,Candice,M,csanperjs@xing.com,13,No,8,104,4.2,Good
+714,1,Zacharias,F ,ztierneyjt@ox.ac.uk,26,No,6,156,4.3,Good
+715,9,Boone,F ,bfreedju@yellowbook.com,30,Yes,12,360,4.5,Best
+716,8,Brod,F ,bhodgejv@fema.gov,24,Yes,10,240,4.3,Good
+717,4,Annabel,F ,aguerrijw@meetup.com,27,No,5,135,2.1,Bad
+718,12,Kania,F ,kcaressjx@home.pl,19,Yes,3,57,4,Good
+719,7,Wendel,M,wtavinorjy@hc360.com,15,Yes,12,180,4.4,Good
+720,7,Bambi,M,btaillardjz@census.gov,27,Yes,12,324,4.4,Good
+721,7,Verena,M,vchreek0@dyndns.org,25,No,12,300,4.4,Good
+722,13,Tova,F ,tgrenvillek1@goo.ne.jp,20,No,7,140,3.9,Average
+723,13,Gilbertina,F ,glernihank2@diigo.com,27,No,6,162,3.9,Average
+724,13,Tonye,M,tgrahamk3@artisteer.com,17,Yes,7,119,3.9,Average
+725,1,Wenonah,M,wzackk4@nature.com,27,Yes,11,297,4.3,Good
+726,12,Coralyn,M,cayrtonk5@dagondesign.com,26,No,2,52,4,Good
+727,12,Daveta,M,dmcmechank6@mozilla.org,13,Yes,1,13,4,Good
+728,3,Tessie,M,tjoiscek7@about.me,28,No,6,168,4.8,Best
+729,8,Josey,F ,jbushek8@tripod.com,22,Yes,10,220,4.3,Good
+730,12,Ammamaria,M,aroundsk9@arizona.edu,19,No,1,19,4,Good
+731,15,Barret,F ,bansettka@symantec.com,11,Yes,8,88,4.2,Good
+732,12,Uta,M,ubykkb@theatlantic.com,19,No,1,19,4,Good
+733,18,Georgine,F ,glarratkc@cdc.gov,22,Yes,10,220,4.9,Best
+734,8,Rustin,F ,rivachyovkd@miitbeian.gov.cn,14,Yes,10,140,4.3,Good
+735,12,Aldin,M,afahyke@jimdo.com,25,No,4,100,4,Good
+736,15,Neil,M,nmussingtonkf@nytimes.com,15,Yes,2,30,4.2,Good
+737,12,Katerine,M,ktronikg@columbia.edu,29,Yes,4,116,4,Good
+738,1,Vittorio,F ,vbowcherkh@devhub.com,13,Yes,11,143,4.3,Good
+739,8,Jud,M,jblackboroughki@about.com,24,Yes,10,240,4.3,Good
+740,15,Horten,F ,hslanykj@nydailynews.com,21,Yes,8,168,4.2,Good
+741,12,Charmine,F ,clomazkk@newsvine.com,29,No,3,87,4,Good
+742,12,Micheil,M,mduinkerkkl@youtu.be,22,No,3,66,4,Good
+743,7,Creigh,M,cbohmankm@blogtalkradio.com,23,Yes,12,276,4.4,Good
+744,12,Helenka,F ,hanglesskn@360.cn,12,No,3,36,4,Good
+745,3,Collie,M,cpurbrickko@techcrunch.com,25,No,13,325,4.8,Best
+746,12,Andrus,M,asaltsbergerkp@rakuten.co.jp,28,Yes,4,112,4,Good
+747,15,Kevon,M,kmateuszczykkq@disqus.com,11,No,8,88,4.2,Good
+748,18,Greggory,M,gtanzigkr@soup.io,19,No,14,266,4.9,Best
+749,12,Ana,M,atrimmingks@scribd.com,10,No,2,20,4,Good
+750,1,Tatiana,M,telleynekt@facebook.com,10,Yes,11,110,4.3,Good
+751,15,Kerk,M,kwaylettku@unicef.org,23,No,9,207,4.2,Good
+752,18,Warner,M,wgailorkv@unesco.org,21,Yes,14,294,4.9,Best
+753,7,Charmion,M,cwhitchurchkw@dropbox.com,20,No,12,240,4.4,Good
+754,7,Genny,M,grossikx@miibeian.gov.cn,25,No,12,300,4.4,Good
+755,18,Boris,M,bpargentky@cnbc.com,19,No,14,266,4.9,Best
+756,13,Fawne,M,fspadeckkz@bigcartel.com,25,Yes,13,325,3.9,Average
+757,13,Lay,M,lkearneyl0@miitbeian.gov.cn,16,Yes,6,96,3.9,Average
+758,15,Bradney,F ,bcopinl1@constantcontact.com,24,No,8,192,4.2,Good
+759,8,Malena,M,mfantonel2@symantec.com,29,Yes,10,290,4.3,Good
+760,12,Nicolina,M,nbussonsl3@nature.com,14,No,4,56,4,Good
+761,8,Lynnet,M,llambshinel4@twitter.com,14,No,14,196,4.3,Good
+762,13,Gregory,F ,grandl5@slideshare.net,17,Yes,6,102,3.9,Average
+763,13,Giraud,M,gscotfurthl6@fda.gov,25,Yes,6,150,3.9,Average
+764,12,Van,F ,vmartynsl7@1und1.de,30,Yes,1,30,4,Good
+765,8,Murray,F ,mcabelll8@dailymotion.com,20,No,10,200,4.3,Good
+766,13,Ursuline,M,uswanboroughl9@yelp.com,30,Yes,2,60,3.9,Average
+767,15,Jenni,F ,jsimukovla@vkontakte.ru,18,No,9,162,4.2,Good
+768,8,Catha,F ,cskowcraftlb@ycombinator.com,10,Yes,10,100,4.3,Good
+769,8,Israel,M,ibladderlc@epa.gov,13,No,10,130,4.3,Good
+770,12,Duffy,M,dhowcroftld@patch.com,14,No,2,28,4,Good
+771,12,Larissa,M,ltreasadenle@vk.com,21,Yes,4,84,4,Good
+772,12,Chantalle,F ,cabrahamianlf@patch.com,15,No,3,45,4,Good
+773,15,Melina,M,mlowrelg@delicious.com,29,No,8,232,4.2,Good
+774,13,Normie,M,nweatherburnlh@nih.gov,23,No,7,161,3.9,Average
+775,13,Johnathan,F ,jcambleli@facebook.com,26,No,7,182,3.9,Average
+776,18,Efren,M,egoghinlj@google.com.au,21,No,3,63,4.9,Best
+777,3,Jake,M,jmcgarvalk@timesonline.co.uk,24,Yes,12,288,4.8,Best
+778,7,Hervey,F ,hipgravell@sourceforge.net,19,Yes,8,152,4.4,Good
+779,18,Ellery,M,echurchinglm@ted.com,14,Yes,14,196,4.9,Best
+780,13,Gabriella,M,gshovellln@earthlink.net,30,No,6,180,3.9,Average
+781,12,Luz,M,lsamworthlo@amazon.com,24,Yes,3,72,4,Good
+782,8,Hebert,F ,htrowelllp@vistaprint.com,23,Yes,10,230,4.3,Good
+783,8,Beatrisa,M,bdimontlq@independent.co.uk,18,Yes,10,180,4.3,Good
+784,3,Leelah,M,lmirfinlr@nytimes.com,27,No,13,351,4.8,Best
+785,3,Lodovico,M,lpardeyls@dropbox.com,11,No,5,55,4.8,Best
+786,3,Jermayne,M,jphilpotlt@gravatar.com,29,Yes,13,377,4.8,Best
+787,3,Kristoffer,M,kfarlanelu@wsj.com,25,No,5,125,4.8,Best
+788,18,Celisse,M,cwiddoweslv@google.it,26,Yes,14,364,4.9,Best
+789,8,Drusy,M,dmadgwichlw@furl.net,16,No,12,192,4.3,Good
+790,1,Fredric,M,fbuttlx@jigsy.com,17,No,12,204,4.3,Good
+791,18,Claybourne,M,calwoodly@quantcast.com,24,No,14,336,4.9,Best
+792,13,Flossie,M,fmalcolmsonlz@businesswire.com,18,Yes,13,234,3.9,Average
+793,1,Talia,M,tiliffm0@sakura.ne.jp,28,No,11,308,4.3,Good
+794,1,Shannen,M,shaquinm1@marketwatch.com,19,Yes,11,209,4.3,Good
+795,15,Lorilee,M,lpidwellm2@jalbum.net,18,No,8,144,4.2,Good
+796,15,Beryl,M,bscamelm3@ted.com,27,Yes,9,243,4.2,Good
+797,3,Candi,M,cdanniellm4@ask.com,17,No,3,51,4.8,Best
+798,3,Raynor,M,rallbrookm5@deliciousdays.com,26,No,3,78,4.8,Best
+799,3,Ritchie,M,rsimenotm6@weather.com,29,No,3,87,4.8,Best
+800,13,Tommi,F ,tferiam7@csmonitor.com,19,No,4,76,3.9,Average
+801,3,Jackson,M,jgeachm8@thetimes.co.uk,26,Yes,5,130,4.8,Best
+802,7,Jinny,M,jdafyddm9@hibu.com,18,No,9,162,4.4,Good
+803,3,Meggi,F ,msayema@sciencedirect.com,24,Yes,13,312,4.8,Best
+804,3,Corly,M,cdynemb@cafepress.com,27,Yes,4,108,4.8,Best
+805,3,Arel,M,adogertymc@mapy.cz,29,Yes,2,58,4.8,Best
+806,15,Jessi,M,jnestermd@reverbnation.com,26,Yes,8,208,4.2,Good
+807,3,Gerianna,F ,gkummerloweme@telegraph.co.uk,30,No,2,60,4.8,Best
+808,3,Bonni,M,blimeburnmf@gnu.org,17,Yes,12,204,4.8,Best
+809,3,Kesley,M,kmarcosmg@biglobe.ne.jp,27,Yes,8,216,4.8,Best
+810,8,Michaela,M,mzamoramh@gov.uk,30,No,13,390,4.3,Good
+811,13,Nikita,M,nsottellmi@odnoklassniki.ru,24,No,10,240,3.9,Average
+812,3,Edgar,M,escotchbourougemj@qq.com,10,Yes,1,10,4.8,Best
+813,3,Bambi,M,bdunbarmk@weibo.com,30,Yes,1,30,4.8,Best
+814,3,Finn,M,fharfleteml@purevolume.com,19,No,13,247,4.8,Best
+815,3,Delores,M,dantosmm@techcrunch.com,16,No,3,48,4.8,Best
+816,18,Laverna,M,lwedderburnmn@over-blog.com,11,Yes,14,154,4.9,Best
+817,3,Reggis,M,rbalshenmo@typepad.com,23,No,5,115,4.8,Best
+818,15,Marybelle,M,mdauneymp@mashable.com,21,No,9,189,4.2,Good
+819,3,Brena,F ,blochetmq@tiny.cc,23,Yes,4,92,4.8,Best
+820,8,Chiquita,M,cdorgonmr@weibo.com,28,No,10,280,4.3,Good
+821,15,Berget,F ,bmcorkillms@lulu.com,26,Yes,8,208,4.2,Good
+822,18,Meredeth,M,mdaingerfieldmt@nps.gov,21,No,5,105,4.9,Best
+823,3,Meade,F ,moflynnmu@vk.com,20,No,11,220,4.8,Best
+824,18,Vallie,M,vboninmv@whitehouse.gov,11,Yes,14,154,4.9,Best
+825,7,Caryl,M,csedgemw@jalbum.net,14,No,12,168,4.4,Good
+826,13,Rosanna,M,rbaldersonmx@scientificamerican.com,15,No,7,105,3.9,Average
+827,3,Diena,M,dmouattmy@jimdo.com,22,Yes,13,286,4.8,Best
+828,3,Quint,M,qjiroutkamz@odnoklassniki.ru,14,No,3,42,4.8,Best
+829,3,Ilyse,M,igarlandn0@timesonline.co.uk,24,Yes,8,192,4.8,Best
+830,15,Kevin,M,kbartloszn1@webmd.com,19,Yes,13,247,4.2,Good
+831,3,Sayre,M,sbarstown2@vkontakte.ru,10,No,8,80,4.8,Best
+832,7,Kirstyn,M,kohallorann3@theguardian.com,13,No,4,52,4.4,Good
+833,15,Lemmie,F ,ljorgensenn4@theglobeandmail.com,25,Yes,8,200,4.2,Good
+834,13,Daphene,M,dbucknalln5@ifeng.com,20,Yes,6,120,3.9,Average
+835,3,Glenden,M,gmcfatern6@kickstarter.com,10,No,2,20,4.8,Best
+836,15,Garry,F ,gcallwayn7@com.com,13,No,8,104,4.2,Good
+837,13,Elizabet,M,ewhitelyn8@google.co.uk,14,Yes,8,112,3.9,Average
+838,13,Casey,M,csucklingn9@usda.gov,11,Yes,6,66,3.9,Average
+839,8,Margalo,M,mmctearna@4shared.com,29,Yes,10,290,4.3,Good
+840,1,Bond,M,bbrydsonnb@uiuc.edu,18,No,11,198,4.3,Good
+841,13,Priscilla,F ,pmithannc@homestead.com,15,Yes,7,105,3.9,Average
+842,3,Amata,M,amcellennd@bloomberg.com,26,Yes,13,338,4.8,Best
+843,3,Jerrie,M,jwoodhamne@angelfire.com,16,Yes,13,208,4.8,Best
+844,15,Arnaldo,M,ayitzhoknf@pcworld.com,30,Yes,9,270,4.2,Good
+845,15,Giovanni,F ,gprawleng@hugedomains.com,23,No,9,207,4.2,Good
+846,3,Lucila,F ,leardnh@phoca.cz,21,Yes,2,42,4.8,Best
+847,3,Ermanno,M,epostiansni@weather.com,24,Yes,5,120,4.8,Best
+848,8,Verina,M,vmarchingtonnj@vimeo.com,10,No,10,100,4.3,Good
+849,1,Gregorius,M,gmuffnk@walmart.com,29,No,11,319,4.3,Good
+850,15,Didi,M,dcotenl@sciencedirect.com,26,Yes,3,78,4.2,Good
+851,3,Inga,M,icorstorphinenm@imageshack.us,17,No,4,68,4.8,Best
+852,15,Randa,M,rmcblainnn@cmu.edu,21,Yes,9,189,4.2,Good
+853,1,Noam,M,nrappsno@blinklist.com,28,No,7,196,4.3,Good
+854,1,Skippie,M,sdrayenp@sourceforge.net,17,No,12,204,4.3,Good
+855,15,Eleanor,M,ehelstripnq@dropbox.com,12,Yes,9,108,4.2,Good
+856,18,Orton,M,oslingsbynr@scribd.com,14,No,2,28,4.9,Best
+857,18,Bobbee,M,bmulrooneyns@oakley.com,14,No,14,196,4.9,Best
+858,8,Alisun,F ,apilchnt@house.gov,24,No,7,168,4.3,Good
+859,7,Holly,M,hstellmannu@tripod.com,29,Yes,12,348,4.4,Good
+860,18,Krystyna,M,kgreschnv@istockphoto.com,29,Yes,4,116,4.9,Best
+861,1,Cord,M,cbarnevillenw@accuweather.com,23,Yes,11,253,4.3,Good
+862,3,Goldina,M,gcasemorenx@naver.com,17,Yes,6,102,4.8,Best
+863,13,Lucho,M,leneferny@cmu.edu,26,Yes,6,156,3.9,Average
+864,15,Mackenzie,F ,mmizzinz@gov.uk,30,No,9,270,4.2,Good
+865,15,Andrei,F ,abrantlo0@npr.org,30,Yes,9,270,4.2,Good
+866,13,Giselle,M,gcoateno1@fda.gov,26,Yes,7,182,3.9,Average
+867,8,Morgana,M,mgatfieldo2@accuweather.com,11,Yes,11,121,4.3,Good
+868,15,Humberto,M,hgrogonoo3@parallels.com,12,Yes,8,96,4.2,Good
+869,1,Niki,M,nmillinso4@yolasite.com,10,Yes,9,90,4.3,Good
+870,8,Beauregard,M,btidcombeo5@opera.com,29,No,14,406,4.3,Good
+871,13,Lucias,M,lcherrymano6@wunderground.com,26,Yes,7,182,3.9,Average
+872,3,Dyann,M,droccoo7@cocolog-nifty.com,18,Yes,5,90,4.8,Best
+873,3,Jakob,F ,jbogaceo8@yandex.ru,30,Yes,1,30,4.8,Best
+874,13,Bartholomew,M,bcolqueteo9@hp.com,21,Yes,5,105,3.9,Average
+875,7,Lynnet,M,lhapkeoa@google.com.hk,19,Yes,12,228,4.4,Good
+876,8,Angil,M,abaronob@examiner.com,11,No,10,110,4.3,Good
+877,13,Raffarty,M,rhaineyoc@hao123.com,15,No,14,210,3.9,Average
+878,1,Jerrie,M,jcurlessod@nasa.gov,25,No,2,50,4.3,Good
+879,13,Marie,M,mbaudouxoe@webs.com,15,No,7,105,3.9,Average
+880,15,Arlyn,M,astobbeof@github.com,11,No,8,88,4.2,Good
+881,13,Lorene,M,ltretwellog@myspace.com,17,No,7,119,3.9,Average
+882,8,Alaster,F ,afiggsoh@sourceforge.net,10,No,10,100,4.3,Good
+883,3,Lon,F ,lbibboi@fda.gov,24,Yes,11,264,4.8,Best
+884,3,Sky,F ,sbordoneoj@php.net,29,Yes,7,203,4.8,Best
+885,3,Trip,M,tkowalskiok@naver.com,29,No,9,261,4.8,Best
+886,15,Jacinda,F ,jcassyol@pinterest.com,20,Yes,9,180,4.2,Good
+887,3,Alfredo,F ,arowstonom@spiegel.de,19,No,13,247,4.8,Best
+888,1,Lucinda,F ,lroeon@altervista.org,21,No,11,231,4.3,Good
+889,13,Lia,M,lbeebleoo@google.es,20,No,14,280,3.9,Average
+890,13,Teodor,F ,tshepherdsonop@chronoengine.com,13,No,6,78,3.9,Average
+891,8,Rafi,F ,rguytonoq@merriam-webster.com,14,Yes,10,140,4.3,Good
+892,15,Gradeigh,M,gmullarkeyor@behance.net,21,No,2,42,4.2,Good
+893,15,Rae,M,rslinnos@behance.net,23,No,14,322,4.2,Good
+894,8,Merrill,M,mbennettoot@apple.com,20,No,10,200,4.3,Good
+895,3,Bunnie,M,bgalbreathou@livejournal.com,29,Yes,1,29,4.8,Best
+896,13,Serge,M,sfinleyov@cisco.com,17,No,7,119,3.9,Average
+897,2,Anneliese,M,akentonow@marriott.com,22,No,4,88,3.7,Average
+898,15,Charin,M,celhamox@hatena.ne.jp,14,No,13,182,4.2,Good
+899,15,Nickey,M,ntregentoy@weather.com,19,No,8,152,4.2,Good
+900,8,Uriah,M,ucaizleyoz@toplist.cz,17,Yes,10,170,4.3,Good
+901,15,Rici,M,rkalep0@ihg.com,19,No,9,171,4.2,Good
+902,13,Viviene,M,vporrettp1@harvard.edu,14,Yes,13,182,3.9,Average
+903,8,Gabriella,M,gmulvihillp2@soundcloud.com,14,Yes,10,140,4.3,Good
+904,2,Gerrie,F ,gdanilovichp3@sbwire.com,14,Yes,3,42,3.7,Average
+905,8,Romona,M,rcaylep4@cnbc.com,30,Yes,10,300,4.3,Good
+906,8,Arlen,M,adoughteryp5@uol.com.br,27,No,10,270,4.3,Good
+907,18,Sisile,F ,sjeromep6@surveymonkey.com,18,Yes,14,252,4.9,Best
+908,15,Eolande,M,eoliverap7@nyu.edu,19,Yes,4,76,4.2,Good
+909,18,Shadow,M,sslatenp8@multiply.com,11,Yes,5,55,4.9,Best
+910,15,Egon,F ,ecalderheadp9@fema.gov,20,Yes,9,180,4.2,Good
+911,2,Karel,F ,kbaughpa@wunderground.com,17,No,4,68,3.7,Average
+912,15,Francklyn,M,fipwellpb@naver.com,27,Yes,9,243,4.2,Good
+913,8,Garvey,M,gpleveypc@tiny.cc,18,No,7,126,4.3,Good
+914,2,Madelin,M,mbegentpd@odnoklassniki.ru,22,No,3,66,3.7,Average
+915,7,Rurik,M,rpigfordpe@patch.com,23,Yes,12,276,4.4,Good
+916,7,Katinka,M,kelstubpf@go.com,13,Yes,12,156,4.4,Good
+917,3,Lisle,M,lbroypg@google.es,15,Yes,13,195,4.8,Best
+918,2,Tan,M,tsmidmoorph@networkadvertising.org,12,Yes,4,48,3.7,Average
+919,2,Dione,M,ddedmampi@trellian.com,19,No,6,114,3.7,Average
+920,3,Farly,F ,fjevonpj@reddit.com,14,No,13,182,4.8,Best
+921,8,Augustina,F ,ajaimezpk@hao123.com,15,No,6,90,4.3,Good
+922,2,Rosy,M,rsibraypl@msn.com,13,No,3,39,3.7,Average
+923,15,Dollie,M,dhordellpm@delicious.com,11,No,9,99,4.2,Good
+924,15,Lesley,F ,ldowdneypn@bbb.org,20,Yes,9,180,4.2,Good
+925,2,Nerte,M,nsurgenerpo@wordpress.com,16,Yes,5,80,3.7,Average
+926,1,Alleen,M,amachentpp@un.org,14,Yes,11,154,4.3,Good
+927,2,Jacqueline,M,jmabbuttpq@youtube.com,20,No,2,40,3.7,Average
+928,2,Alexio,F ,amocquerpr@artisteer.com,18,No,9,162,3.7,Average
+929,7,Gamaliel,M,gaberkirderps@archive.org,27,No,12,324,4.4,Good
+930,7,Rabbi,M,raustonpt@e-recht24.de,17,Yes,12,204,4.4,Good
+931,2,Laurene,M,lellorpu@bloglines.com,13,Yes,4,52,3.7,Average
+932,8,Craggie,F ,cmauntonpv@amazonaws.com,20,No,10,200,4.3,Good
+933,2,Dale,M,dnardipw@pagesperso-orange.fr,15,Yes,2,30,3.7,Average
+934,2,Coralyn,M,clongshawpx@nymag.com,23,Yes,5,115,3.7,Average
+935,18,Veronique,M,vhallickpy@seattletimes.com,21,Yes,14,294,4.9,Best
+936,2,Wynnie,F ,wshurlockpz@acquirethisname.com,25,No,2,50,3.7,Average
+937,2,Hazel,M,htemplemanq0@cpanel.net,29,No,3,87,3.7,Average
+938,3,Randi,F ,rfraynq1@php.net,10,Yes,13,130,4.8,Best
+939,2,Celestine,M,cgillinoq2@multiply.com,13,No,4,52,3.7,Average
+940,13,Carlyn,M,croderickq3@npr.org,15,No,6,90,3.9,Average
+941,2,Austen,M,aeustanchq4@weebly.com,14,Yes,1,14,3.7,Average
+942,2,Jeffry,M,jredbournq5@wikispaces.com,17,No,10,170,3.7,Average
+943,7,Cristal,F ,csponderq6@123-reg.co.uk,28,No,3,84,4.4,Good
+944,2,Madge,F ,mboutwellq7@biblegateway.com,26,Yes,4,104,3.7,Average
+945,1,Tod,M,tebblesq8@cargocollective.com,25,Yes,9,225,4.3,Good
+946,13,Evy,F ,ebarmbyq9@bing.com,24,Yes,4,96,3.9,Average
+947,2,Hillard,F ,hworledgeqa@infoseek.co.jp,10,No,14,140,3.7,Average
+948,18,Cherey,M,cmaccaughanqb@examiner.com,28,No,11,308,4.9,Best
+949,2,Melita,M,mspieghtqc@i2i.jp,21,No,2,42,3.7,Average
+950,8,Aeriel,M,ajoppqd@issuu.com,21,No,10,210,4.3,Good
+951,2,Tamarah,M,ttaylourqe@seattletimes.com,15,No,4,60,3.7,Average
+952,15,Ardyth,F ,acoldwellqf@alibaba.com,18,Yes,7,126,4.2,Good
+953,15,Hyacinthie,M,hbernardinoqg@google.co.jp,18,Yes,10,180,4.2,Good
+954,13,Demetrius,M,dmouatqh@earthlink.net,14,No,2,28,3.9,Average
+955,2,Fergus,M,fkelmereqi@cam.ac.uk,26,No,4,104,3.7,Average
+956,2,Jonathan,M,jpawnsfordqj@twitpic.com,21,Yes,10,210,3.7,Average
+957,13,Xylia,M,xbolingbrokeqk@livejournal.com,29,No,7,203,3.9,Average
+958,18,Claribel,M,cotteryql@businesswire.com,12,Yes,14,168,4.9,Best
+959,8,Adela,F ,adaytonqm@guardian.co.uk,22,No,10,220,4.3,Good
+960,17,Felicdad,M,fpearsonqn@about.me,19,Yes,3,57,3.1,Bad
+961,17,Chan,F ,clyenyngqo@statcounter.com,18,No,5,90,3.1,Bad
+962,15,Lombard,M,lkopfqp@wix.com,14,No,8,112,4.2,Good
+963,13,Foss,F ,fpitsonqq@amazonaws.com,18,Yes,7,126,3.9,Average
+964,8,Towney,M,tskatesqr@angelfire.com,22,Yes,10,220,4.3,Good
+965,17,Cherianne,M,cmordinqs@blinklist.com,11,Yes,4,44,3.1,Bad
+966,3,Raymund,M,rmaryetqt@drupal.org,29,No,13,377,4.8,Best
+967,17,Libbey,M,lwoollamqu@hexun.com,10,Yes,1,10,3.1,Bad
+968,3,Arliene,M,awilbrahamqv@sbwire.com,29,No,7,203,4.8,Best
+969,17,Jermayne,M,jpinchesqw@myspace.com,18,Yes,11,198,3.1,Bad
+970,18,Michaeline,F ,mpagramqx@webeden.co.uk,12,Yes,14,168,4.9,Best
+971,17,Winnie,M,wpodmoreqy@biblegateway.com,24,Yes,1,24,3.1,Bad
+972,13,Louisa,F ,lturriqz@ebay.co.uk,30,Yes,6,180,3.9,Average
+973,15,Terza,M,tbedsonr0@shareasale.com,10,No,8,80,4.2,Good
+974,17,Quintus,F ,qdemeyerr1@instagram.com,10,Yes,7,70,3.1,Bad
+975,13,Erwin,M,ecoadyr2@ca.gov,25,No,13,325,3.9,Average
+976,18,Althea,M,awinslowr3@washington.edu,13,Yes,14,182,4.9,Best
+977,8,Jasmina,M,jespinhar4@geocities.jp,30,No,12,360,4.3,Good
+978,3,Tony,M,tmaidstoner5@privacy.gov.au,16,No,13,208,4.8,Best
+979,17,Ciro,F ,clouthr6@blogspot.com,13,No,5,65,3.1,Bad
+980,17,Tucky,M,tsalvadorir7@skyrock.com,14,No,5,70,3.1,Bad
+981,15,Bjorn,F ,bhallwoodr8@skyrock.com,19,Yes,8,152,4.2,Good
+982,15,Lyell,M,llackingtonr9@google.ca,29,No,9,261,4.2,Good
+983,17,Glenine,M,ggavrielira@dailymail.co.uk,17,No,2,34,3.1,Bad
+984,17,Rozanna,M,rmillinsrb@cafepress.com,25,No,10,250,3.1,Bad
+985,13,Tiertza,F ,tosmantrc@shop-pro.jp,18,Yes,6,108,3.9,Average
+986,13,Dael,F ,dosburnrd@comsenz.com,18,Yes,6,108,3.9,Average
+987,17,Kennan,F ,kjeffsre@npr.org,29,Yes,5,145,3.1,Bad
+988,18,Zachery,M,zgrigorianrf@ning.com,14,No,14,196,4.9,Best
+989,3,Ken,F ,kdecruzrg@free.fr,11,No,10,110,4.8,Best
+990,13,Fred,M,froosrh@census.gov,29,Yes,10,290,3.9,Average
+991,1,Mathilda,F ,mtresloveri@walmart.com,28,No,3,84,4.3,Good
+992,15,Pascale,M,phavikrj@nih.gov,24,Yes,9,216,4.2,Good
+993,8,Lincoln,F ,lluthwoodrk@indiatimes.com,13,Yes,10,130,4.3,Good
+994,3,Yves,M,ysherarl@slate.com,26,Yes,13,338,4.8,Best
+995,17,Delmor,M,dburridgerm@un.org,23,Yes,3,69,3.1,Bad
+996,17,Davin,M,dboardrn@seattletimes.com,28,No,12,336,3.1,Bad
+997,17,Agustin,M,agribbonro@biblegateway.com,10,Yes,4,40,3.1,Bad
+998,17,Hartley,M,hfindlowrp@ucla.edu,13,Yes,3,39,3.1,Bad
+999,13,Kaleb,M,kdurstonrq@ask.com,26,No,6,156,3.9,Average
+1000,13,Verina,M,vsprayrr@freewebs.com,26,Yes,7,182,3.9,Average

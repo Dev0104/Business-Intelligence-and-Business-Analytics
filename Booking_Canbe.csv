@@ -1,0 +1,1001 @@
+booking_id,customer_id,property id,Property name,Location,room_id,Date,Price,stay_duration
+1001,1,18,Abey Court,Dublin,134,25-11-2019,30,14
+1002,2,3,Rutherford Inc,Galway,250,25-07-2019,27,13
+1003,3,18,Abey Court,Dublin,157,20-12-2019,20,14
+1004,4,3,Rutherford Inc,Galway,283,26-02-2020,20,13
+1005,5,16,Gardiner House,Dublin,196,21-12-2019,18,3
+1006,6,8,Thiel-Konopelski,Limerick,202,11-04-2020,17,10
+1007,7,16,Gardiner House,Dublin,181,11-07-2019,17,1
+1008,8,14,Kenz Stay,Cork,258,16-08-2019,11,6
+1009,9,16,Gardiner House,Dublin,265,12-08-2019,12,2
+1010,10,1,Traveler's Hub,Dublin,289,15-09-2019,30,11
+1011,11,14,Kenz Stay,Cork,153,11-06-2019,30,6
+1012,12,9,Von-Homenick,Dublin,111,25-11-2019,29,9
+1013,13,8,Thiel-Konopelski,Limerick,159,25-11-2019,13,10
+1014,14,8,Thiel-Konopelski,Limerick,269,30-06-2019,23,10
+1015,15,14,Kenz Stay,Cork,238,10-12-2019,16,7
+1016,16,18,Abey Court,Dublin,138,06-01-2020,13,14
+1017,17,16,Gardiner House,Dublin,254,17-12-2019,23,4
+1018,18,7,Lockman-Roberts,Limerick,218,10-10-2019,14,12
+1019,19,7,Lockman-Roberts,Limerick,269,23-06-2019,21,12
+1020,20,16,Gardiner House,Dublin,195,04-11-2019,29,2
+1021,21,8,Thiel-Konopelski,Limerick,299,21-03-2020,23,10
+1022,22,18,Abey Court,Dublin,249,23-09-2019,21,14
+1023,23,16,Gardiner House,Dublin,281,16-02-2020,19,4
+1024,24,9,Von-Homenick,Dublin,158,07-10-2019,23,9
+1025,25,16,Gardiner House,Dublin,247,17-08-2019,26,4
+1026,26,9,Von-Homenick,Dublin,138,26-02-2020,11,8
+1027,27,16,Gardiner House,Dublin,243,10-01-2020,13,3
+1028,28,16,Gardiner House,Dublin,127,12-06-2019,18,4
+1029,29,8,Thiel-Konopelski,Limerick,174,23-06-2019,18,10
+1030,30,14,Kenz Stay,Cork,248,10-10-2019,18,6
+1031,31,14,Kenz Stay,Cork,131,20-10-2019,11,7
+1032,32,14,Kenz Stay,Cork,237,16-07-2019,21,7
+1033,33,16,Gardiner House,Dublin,218,16-05-2019,15,4
+1034,34,18,Abey Court,Dublin,160,23-11-2019,25,14
+1035,35,7,Lockman-Roberts,Limerick,158,12-05-2019,13,12
+1036,36,9,Von-Homenick,Dublin,227,22-09-2019,18,8
+1037,37,16,Gardiner House,Dublin,173,16-06-2019,16,5
+1038,38,16,Gardiner House,Dublin,135,05-01-2020,12,3
+1039,39,18,Abey Court,Dublin,144,12-09-2019,21,14
+1040,40,16,Gardiner House,Dublin,233,28-02-2020,14,3
+1041,41,3,Rutherford Inc,Galway,159,04-08-2019,18,13
+1042,42,8,Thiel-Konopelski,Limerick,225,11-12-2019,28,10
+1043,43,8,Thiel-Konopelski,Limerick,132,25-09-2019,16,10
+1044,44,16,Gardiner House,Dublin,237,07-02-2020,19,5
+1045,45,18,Abey Court,Dublin,195,29-04-2019,22,14
+1046,46,16,Gardiner House,Dublin,155,30-06-2019,27,3
+1047,47,16,Gardiner House,Dublin,152,27-12-2019,29,5
+1048,48,9,Von-Homenick,Dublin,169,24-05-2019,13,8
+1049,49,7,Lockman-Roberts,Limerick,237,11-02-2020,13,12
+1050,50,16,Gardiner House,Dublin,259,12-09-2019,24,5
+1051,51,9,Von-Homenick,Dublin,262,05-03-2020,10,9
+1052,52,16,Gardiner House,Dublin,145,30-09-2019,17,3
+1053,53,14,Kenz Stay,Cork,132,22-09-2019,16,6
+1054,54,8,Thiel-Konopelski,Limerick,261,06-10-2019,30,10
+1055,55,16,Gardiner House,Dublin,288,04-09-2019,11,3
+1056,56,16,Gardiner House,Dublin,249,27-01-2020,30,3
+1057,57,16,Gardiner House,Dublin,179,31-08-2019,25,5
+1058,58,9,Von-Homenick,Dublin,190,18-07-2019,23,8
+1059,59,16,Gardiner House,Dublin,257,15-02-2020,20,5
+1060,60,14,Kenz Stay,Cork,213,30-07-2019,15,6
+1061,61,16,Gardiner House,Dublin,258,06-08-2019,28,1
+1062,62,8,Thiel-Konopelski,Limerick,233,20-12-2019,16,1
+1063,63,7,Lockman-Roberts,Limerick,287,23-02-2020,27,12
+1064,64,16,Gardiner House,Dublin,238,15-09-2019,18,3
+1065,65,3,Rutherford Inc,Galway,238,04-07-2019,20,13
+1066,66,16,Gardiner House,Dublin,150,17-02-2020,30,5
+1067,67,16,Gardiner House,Dublin,191,06-01-2020,19,2
+1068,68,1,Traveler's Hub,Dublin,196,16-10-2019,15,11
+1069,69,1,Traveler's Hub,Dublin,218,31-08-2019,11,11
+1070,70,7,Lockman-Roberts,Limerick,180,16-07-2019,28,12
+1071,71,16,Gardiner House,Dublin,184,02-12-2019,20,2
+1072,72,16,Gardiner House,Dublin,272,17-04-2019,30,2
+1073,73,16,Gardiner House,Dublin,242,03-06-2019,14,3
+1074,74,9,Von-Homenick,Dublin,281,06-04-2020,11,9
+1075,75,16,Gardiner House,Dublin,223,30-09-2019,14,2
+1076,76,7,Lockman-Roberts,Limerick,213,23-06-2019,18,12
+1077,77,16,Gardiner House,Dublin,257,22-09-2019,29,5
+1078,78,16,Gardiner House,Dublin,278,22-01-2020,17,1
+1079,79,16,Gardiner House,Dublin,149,24-07-2019,14,3
+1080,80,9,Von-Homenick,Dublin,239,14-01-2020,19,8
+1081,81,16,Gardiner House,Dublin,157,28-12-2019,18,4
+1082,82,7,Lockman-Roberts,Limerick,196,19-08-2019,22,12
+1083,83,16,Gardiner House,Dublin,141,19-01-2020,15,3
+1084,84,9,Von-Homenick,Dublin,129,16-12-2019,21,8
+1085,85,14,Kenz Stay,Cork,147,16-10-2019,25,7
+1086,86,14,Kenz Stay,Cork,213,12-09-2019,21,7
+1087,87,14,Kenz Stay,Cork,130,17-08-2019,18,7
+1088,88,14,Kenz Stay,Cork,138,28-04-2019,17,7
+1089,89,16,Gardiner House,Dublin,130,14-10-2019,12,1
+1090,90,16,Gardiner House,Dublin,289,14-07-2019,20,5
+1091,91,16,Gardiner House,Dublin,231,16-07-2019,21,4
+1092,92,16,Gardiner House,Dublin,278,04-01-2020,12,3
+1093,93,16,Gardiner House,Dublin,233,04-12-2019,14,3
+1094,94,14,Kenz Stay,Cork,252,23-01-2020,20,6
+1095,95,16,Gardiner House,Dublin,176,14-06-2019,24,5
+1096,96,3,Rutherford Inc,Galway,165,09-09-2019,12,13
+1097,97,16,Gardiner House,Dublin,292,03-01-2020,28,4
+1098,98,16,Gardiner House,Dublin,291,13-05-2019,22,4
+1099,99,9,Von-Homenick,Dublin,154,30-05-2019,27,9
+1100,100,8,Thiel-Konopelski,Limerick,282,07-09-2019,27,10
+1101,101,14,Kenz Stay,Cork,147,11-01-2020,11,6
+1102,102,9,Von-Homenick,Dublin,193,16-07-2019,12,8
+1103,103,8,Thiel-Konopelski,Limerick,267,21-07-2019,29,10
+1104,104,8,Thiel-Konopelski,Limerick,271,20-08-2019,25,10
+1105,105,16,Gardiner House,Dublin,170,25-08-2019,25,2
+1106,106,3,Rutherford Inc,Galway,286,13-09-2019,22,13
+1107,107,14,Kenz Stay,Cork,190,08-10-2019,17,6
+1108,108,1,Traveler's Hub,Dublin,257,20-11-2019,30,11
+1109,109,8,Thiel-Konopelski,Limerick,246,03-10-2019,17,10
+1110,110,14,Kenz Stay,Cork,164,19-01-2020,18,7
+1111,111,16,Gardiner House,Dublin,206,09-01-2020,15,3
+1112,112,3,Rutherford Inc,Galway,272,15-04-2019,25,13
+1113,113,9,Von-Homenick,Dublin,174,09-09-2019,20,9
+1114,114,16,Gardiner House,Dublin,123,09-08-2019,26,3
+1115,115,9,Von-Homenick,Dublin,241,24-04-2019,25,8
+1116,116,16,Gardiner House,Dublin,160,14-04-2019,15,4
+1117,117,7,Lockman-Roberts,Limerick,229,29-08-2019,14,12
+1118,118,16,Gardiner House,Dublin,214,19-06-2019,20,5
+1119,119,14,Kenz Stay,Cork,252,21-07-2019,25,9
+1120,120,1,Traveler's Hub,Dublin,248,02-12-2019,12,11
+1121,121,7,Lockman-Roberts,Limerick,111,15-12-2019,19,12
+1122,122,3,Rutherford Inc,Galway,141,18-02-2020,25,13
+1123,123,16,Gardiner House,Dublin,181,29-08-2019,18,1
+1124,124,4,"Macejkovic, Batz and Harber",Galway,269,25-07-2019,20,1
+1125,125,7,Lockman-Roberts,Limerick,146,27-08-2019,12,12
+1126,126,14,Kenz Stay,Cork,133,18-07-2019,24,7
+1127,127,4,"Macejkovic, Batz and Harber",Galway,124,29-12-2019,26,2
+1128,128,4,"Macejkovic, Batz and Harber",Galway,166,02-09-2019,25,3
+1129,129,17,Jacobs Inn,Cork,251,07-08-2019,29,4
+1130,130,18,Abey Court,Dublin,247,13-11-2019,21,14
+1131,131,18,Abey Court,Dublin,231,18-11-2019,23,14
+1132,132,4,"Macejkovic, Batz and Harber",Galway,160,18-10-2019,30,5
+1133,133,17,Jacobs Inn,Cork,129,14-09-2019,23,4
+1134,134,3,Rutherford Inc,Galway,227,26-11-2019,21,13
+1135,135,14,Kenz Stay,Cork,125,12-10-2019,15,6
+1136,136,1,Traveler's Hub,Dublin,127,23-09-2019,20,11
+1137,137,7,Lockman-Roberts,Limerick,175,02-01-2020,24,12
+1138,138,4,"Macejkovic, Batz and Harber",Galway,239,08-02-2020,27,3
+1139,139,3,Rutherford Inc,Galway,270,19-08-2019,25,13
+1140,140,1,Traveler's Hub,Dublin,289,13-12-2019,12,11
+1141,141,4,"Macejkovic, Batz and Harber",Galway,275,28-12-2019,19,5
+1142,142,4,"Macejkovic, Batz and Harber",Galway,227,19-02-2020,15,1
+1143,143,17,Jacobs Inn,Cork,140,01-04-2020,30,4
+1144,144,9,Von-Homenick,Dublin,274,28-02-2020,26,8
+1145,145,9,Von-Homenick,Dublin,204,08-04-2020,11,8
+1146,146,14,Kenz Stay,Cork,276,27-09-2019,29,7
+1147,147,7,Lockman-Roberts,Limerick,298,11-08-2019,21,12
+1148,148,3,Rutherford Inc,Galway,195,23-07-2019,11,13
+1149,149,14,Kenz Stay,Cork,280,02-08-2019,28,7
+1150,150,4,"Macejkovic, Batz and Harber",Galway,236,21-05-2019,26,4
+1151,151,4,"Macejkovic, Batz and Harber",Galway,298,11-08-2019,13,5
+1152,152,3,Rutherford Inc,Galway,190,26-02-2020,19,13
+1153,153,4,"Macejkovic, Batz and Harber",Galway,247,15-03-2020,23,1
+1154,154,8,Thiel-Konopelski,Limerick,170,02-10-2019,24,10
+1155,155,14,Kenz Stay,Cork,163,24-12-2019,25,7
+1156,156,17,Jacobs Inn,Cork,272,08-12-2019,16,4
+1157,157,9,Von-Homenick,Dublin,160,19-11-2019,15,11
+1158,158,4,"Macejkovic, Batz and Harber",Galway,120,28-10-2019,16,13
+1159,159,8,Thiel-Konopelski,Limerick,294,07-12-2019,15,10
+1160,160,1,Traveler's Hub,Dublin,254,16-10-2019,22,11
+1161,161,14,Kenz Stay,Cork,287,18-04-2019,14,6
+1162,162,7,Lockman-Roberts,Limerick,170,15-11-2019,10,12
+1163,163,4,"Macejkovic, Batz and Harber",Galway,124,09-05-2019,30,1
+1164,164,7,Lockman-Roberts,Limerick,137,05-07-2019,14,7
+1165,165,3,Rutherford Inc,Galway,141,22-07-2019,24,13
+1166,166,4,"Macejkovic, Batz and Harber",Galway,252,17-02-2020,15,5
+1167,167,4,"Macejkovic, Batz and Harber",Galway,277,13-12-2019,16,1
+1168,168,1,Traveler's Hub,Dublin,202,11-05-2019,23,11
+1169,169,4,"Macejkovic, Batz and Harber",Galway,127,16-08-2019,19,4
+1170,170,14,Kenz Stay,Cork,211,03-08-2019,11,6
+1171,171,7,Lockman-Roberts,Limerick,126,30-03-2020,23,12
+1172,172,4,"Macejkovic, Batz and Harber",Galway,238,12-02-2020,18,3
+1173,173,7,Lockman-Roberts,Limerick,180,07-05-2019,11,12
+1174,174,14,Kenz Stay,Cork,268,28-07-2019,17,6
+1175,175,4,"Macejkovic, Batz and Harber",Galway,166,26-04-2019,28,1
+1176,176,14,Kenz Stay,Cork,210,19-09-2019,19,9
+1177,177,1,Traveler's Hub,Dublin,224,16-10-2019,18,11
+1178,178,14,Kenz Stay,Cork,182,06-05-2019,24,7
+1179,179,4,"Macejkovic, Batz and Harber",Galway,125,06-10-2019,23,2
+1180,180,4,"Macejkovic, Batz and Harber",Galway,180,21-09-2019,28,1
+1181,181,9,Von-Homenick,Dublin,172,17-03-2020,10,9
+1182,182,3,Rutherford Inc,Galway,298,04-11-2019,19,13
+1183,183,8,Thiel-Konopelski,Limerick,205,20-04-2019,21,10
+1184,184,3,Rutherford Inc,Galway,116,05-04-2020,24,13
+1185,185,5,Lemke-Bartell,Cork,205,15-06-2019,14,2
+1186,186,5,Lemke-Bartell,Cork,168,18-09-2019,17,1
+1187,187,7,Lockman-Roberts,Limerick,267,12-10-2019,19,12
+1188,188,9,Von-Homenick,Dublin,172,22-11-2019,28,8
+1189,189,9,Von-Homenick,Dublin,155,16-07-2019,12,9
+1190,190,7,Lockman-Roberts,Limerick,253,07-06-2019,30,5
+1191,191,1,Traveler's Hub,Dublin,155,02-11-2019,16,11
+1192,192,8,Thiel-Konopelski,Limerick,186,29-03-2020,21,10
+1193,193,5,Lemke-Bartell,Cork,198,07-06-2019,22,4
+1194,194,18,Abey Court,Dublin,275,09-04-2020,24,14
+1195,195,18,Abey Court,Dublin,263,01-09-2019,10,14
+1196,196,8,Thiel-Konopelski,Limerick,244,19-10-2019,25,10
+1197,197,5,Lemke-Bartell,Cork,232,30-05-2019,24,5
+1198,198,14,Kenz Stay,Cork,174,19-02-2020,29,7
+1199,199,18,Abey Court,Dublin,180,20-11-2019,17,14
+1200,200,5,Lemke-Bartell,Cork,267,29-10-2019,24,12
+1201,201,5,Lemke-Bartell,Cork,181,05-03-2020,24,1
+1202,202,14,Kenz Stay,Cork,182,26-02-2020,14,6
+1203,203,5,Lemke-Bartell,Cork,298,25-10-2019,30,4
+1204,204,5,Lemke-Bartell,Cork,291,14-03-2020,30,5
+1205,205,9,Von-Homenick,Dublin,112,03-12-2019,26,9
+1206,206,8,Thiel-Konopelski,Limerick,213,20-05-2019,25,10
+1207,207,3,Rutherford Inc,Galway,148,02-11-2019,13,13
+1208,208,18,Abey Court,Dublin,150,15-02-2020,23,13
+1209,209,5,Lemke-Bartell,Cork,282,08-02-2020,23,5
+1210,210,5,Lemke-Bartell,Cork,196,26-08-2019,11,3
+1211,211,8,Thiel-Konopelski,Limerick,179,06-06-2019,25,9
+1212,212,14,Kenz Stay,Cork,231,04-01-2020,23,6
+1213,213,8,Thiel-Konopelski,Limerick,137,01-02-2020,26,10
+1214,214,9,Von-Homenick,Dublin,226,21-01-2020,30,8
+1215,215,18,Abey Court,Dublin,177,10-08-2019,28,14
+1216,216,9,Von-Homenick,Dublin,224,20-12-2019,25,8
+1217,217,7,Lockman-Roberts,Limerick,242,20-02-2020,25,12
+1218,218,9,Von-Homenick,Dublin,274,19-10-2019,24,12
+1219,219,8,Thiel-Konopelski,Limerick,200,09-10-2019,24,9
+1220,220,5,Lemke-Bartell,Cork,203,19-07-2019,18,10
+1221,221,18,Abey Court,Dublin,231,26-03-2020,28,14
+1222,222,5,Lemke-Bartell,Cork,293,07-03-2020,29,5
+1223,223,5,Lemke-Bartell,Cork,299,15-11-2019,30,1
+1224,224,14,Kenz Stay,Cork,232,13-04-2020,23,6
+1225,225,7,Lockman-Roberts,Limerick,255,09-04-2020,22,12
+1226,226,1,Traveler's Hub,Dublin,281,02-04-2020,27,11
+1227,227,7,Lockman-Roberts,Limerick,295,06-08-2019,22,12
+1228,228,8,Thiel-Konopelski,Limerick,157,31-03-2020,13,10
+1229,229,3,Rutherford Inc,Galway,165,26-11-2019,30,13
+1230,230,1,Traveler's Hub,Dublin,148,08-07-2019,24,11
+1231,231,1,Traveler's Hub,Dublin,122,20-01-2020,18,11
+1232,232,5,Lemke-Bartell,Cork,136,13-02-2020,17,2
+1233,233,3,Rutherford Inc,Galway,231,13-03-2020,17,13
+1234,234,1,Traveler's Hub,Dublin,156,30-03-2020,19,11
+1235,235,14,Kenz Stay,Cork,268,11-03-2020,21,6
+1236,236,18,Abey Court,Dublin,185,16-05-2019,13,14
+1237,237,7,Lockman-Roberts,Limerick,274,24-12-2019,10,12
+1238,238,5,Lemke-Bartell,Cork,194,17-08-2019,19,5
+1239,239,7,Lockman-Roberts,Limerick,198,02-03-2020,17,12
+1240,240,14,Kenz Stay,Cork,148,12-08-2019,29,6
+1241,241,1,Traveler's Hub,Dublin,127,27-01-2020,17,11
+1242,242,5,Lemke-Bartell,Cork,300,11-10-2019,26,12
+1243,243,5,Lemke-Bartell,Cork,295,30-09-2019,23,2
+1244,244,14,Kenz Stay,Cork,243,03-12-2019,10,7
+1245,245,5,Lemke-Bartell,Cork,251,17-04-2019,16,4
+1246,246,18,Abey Court,Dublin,206,30-11-2019,11,14
+1247,247,18,Abey Court,Dublin,183,04-01-2020,24,14
+1248,248,8,Thiel-Konopelski,Limerick,174,12-10-2019,26,10
+1249,249,18,Abey Court,Dublin,113,13-12-2019,14,14
+1250,250,5,Lemke-Bartell,Cork,149,11-02-2020,21,1
+1251,251,9,Von-Homenick,Dublin,153,28-03-2020,25,8
+1252,252,5,Lemke-Bartell,Cork,114,23-12-2019,12,5
+1253,253,9,Von-Homenick,Dublin,283,28-07-2019,15,8
+1254,254,14,Kenz Stay,Cork,172,25-11-2019,28,6
+1255,255,3,Rutherford Inc,Galway,151,19-05-2019,28,13
+1256,256,9,Von-Homenick,Dublin,233,21-02-2020,21,9
+1257,257,9,Von-Homenick,Dublin,150,03-04-2020,10,9
+1258,258,14,Kenz Stay,Cork,235,30-09-2019,17,7
+1259,259,5,Lemke-Bartell,Cork,206,25-01-2020,22,1
+1260,260,14,Kenz Stay,Cork,287,22-05-2019,10,13
+1261,261,5,Lemke-Bartell,Cork,249,12-06-2019,25,2
+1262,262,14,Kenz Stay,Cork,211,06-10-2019,26,7
+1263,263,5,Lemke-Bartell,Cork,278,29-10-2019,17,3
+1264,264,14,Kenz Stay,Cork,170,27-06-2019,23,7
+1265,265,5,Lemke-Bartell,Cork,122,05-03-2020,17,14
+1266,266,5,Lemke-Bartell,Cork,184,24-11-2019,24,4
+1267,267,7,Lockman-Roberts,Limerick,256,05-12-2019,21,12
+1268,268,1,Traveler's Hub,Dublin,229,03-01-2020,14,2
+1269,269,5,Lemke-Bartell,Cork,196,30-12-2019,10,4
+1270,270,9,Von-Homenick,Dublin,143,28-04-2019,12,9
+1271,271,9,Von-Homenick,Dublin,172,29-07-2019,11,8
+1272,272,5,Lemke-Bartell,Cork,267,15-08-2019,18,5
+1273,273,18,Abey Court,Dublin,284,29-03-2020,11,14
+1274,274,9,Von-Homenick,Dublin,139,10-08-2019,19,9
+1275,275,8,Thiel-Konopelski,Limerick,155,02-09-2019,17,10
+1276,276,5,Lemke-Bartell,Cork,296,31-07-2019,11,1
+1277,277,7,Lockman-Roberts,Limerick,207,13-01-2020,15,12
+1278,278,14,Kenz Stay,Cork,281,02-11-2019,29,4
+1279,279,5,Lemke-Bartell,Cork,127,18-11-2019,11,3
+1280,280,9,Von-Homenick,Dublin,226,04-02-2020,23,8
+1281,281,14,Kenz Stay,Cork,212,26-03-2020,22,7
+1282,282,5,Lemke-Bartell,Cork,289,20-05-2019,17,3
+1283,283,5,Lemke-Bartell,Cork,266,10-03-2020,14,2
+1284,284,5,Lemke-Bartell,Cork,287,16-09-2019,26,5
+1285,285,5,Lemke-Bartell,Cork,161,08-11-2019,18,3
+1286,286,6,"Boyle, Wolf and Moore",Cork,289,10-07-2019,19,3
+1287,287,8,Thiel-Konopelski,Limerick,214,08-06-2019,20,10
+1288,288,9,Von-Homenick,Dublin,297,29-04-2019,16,9
+1289,289,6,"Boyle, Wolf and Moore",Cork,280,01-05-2019,27,5
+1290,290,14,Kenz Stay,Cork,238,03-02-2020,19,7
+1291,291,6,"Boyle, Wolf and Moore",Cork,245,11-03-2020,17,2
+1292,292,9,Von-Homenick,Dublin,252,29-02-2020,19,9
+1293,293,3,Rutherford Inc,Galway,292,21-03-2020,25,13
+1294,294,1,Traveler's Hub,Dublin,280,28-01-2020,23,11
+1295,295,6,"Boyle, Wolf and Moore",Cork,149,05-08-2019,28,4
+1296,296,14,Kenz Stay,Cork,256,14-10-2019,17,7
+1297,297,6,"Boyle, Wolf and Moore",Cork,223,13-09-2019,26,4
+1298,298,9,Von-Homenick,Dublin,268,13-05-2019,23,4
+1299,299,6,"Boyle, Wolf and Moore",Cork,248,02-08-2019,30,4
+1300,300,9,Von-Homenick,Dublin,182,18-06-2019,29,9
+1301,301,9,Von-Homenick,Dublin,179,03-12-2019,11,9
+1302,302,6,"Boyle, Wolf and Moore",Cork,126,22-09-2019,15,2
+1303,303,6,"Boyle, Wolf and Moore",Cork,203,05-01-2020,18,3
+1304,304,6,"Boyle, Wolf and Moore",Cork,280,20-09-2019,10,1
+1305,305,9,Von-Homenick,Dublin,274,22-06-2019,23,8
+1306,306,6,"Boyle, Wolf and Moore",Cork,152,24-04-2019,25,4
+1307,307,6,"Boyle, Wolf and Moore",Cork,290,26-09-2019,16,2
+1308,308,14,Kenz Stay,Cork,173,25-12-2019,15,7
+1309,309,6,"Boyle, Wolf and Moore",Cork,209,19-11-2019,25,5
+1310,310,9,Von-Homenick,Dublin,164,31-10-2019,28,9
+1311,311,14,Kenz Stay,Cork,138,09-07-2019,17,6
+1312,312,6,"Boyle, Wolf and Moore",Cork,133,20-11-2019,24,5
+1313,313,18,Abey Court,Dublin,274,13-08-2019,26,14
+1314,314,7,Lockman-Roberts,Limerick,251,13-02-2020,21,12
+1315,315,1,Traveler's Hub,Dublin,279,14-10-2019,10,11
+1316,316,14,Kenz Stay,Cork,173,22-10-2019,27,4
+1317,317,6,"Boyle, Wolf and Moore",Cork,238,09-08-2019,25,5
+1318,318,6,"Boyle, Wolf and Moore",Cork,279,17-02-2020,29,3
+1319,319,14,Kenz Stay,Cork,207,18-05-2019,27,7
+1320,320,6,"Boyle, Wolf and Moore",Cork,130,17-01-2020,20,2
+1321,321,6,"Boyle, Wolf and Moore",Cork,181,21-07-2019,14,1
+1322,322,7,Lockman-Roberts,Limerick,285,15-10-2019,25,12
+1323,323,8,Thiel-Konopelski,Limerick,297,26-09-2019,24,5
+1324,324,6,"Boyle, Wolf and Moore",Cork,159,07-05-2019,13,3
+1325,325,14,Kenz Stay,Cork,233,15-02-2020,30,7
+1326,326,6,"Boyle, Wolf and Moore",Cork,290,30-08-2019,20,1
+1327,327,1,Traveler's Hub,Dublin,255,23-09-2019,22,11
+1328,328,14,Kenz Stay,Cork,281,25-09-2019,18,7
+1329,329,3,Rutherford Inc,Galway,242,20-01-2020,28,13
+1330,330,6,"Boyle, Wolf and Moore",Cork,113,08-02-2020,28,1
+1331,331,7,Lockman-Roberts,Limerick,268,21-01-2020,21,12
+1332,332,6,"Boyle, Wolf and Moore",Cork,217,26-10-2019,27,2
+1333,333,6,"Boyle, Wolf and Moore",Cork,220,08-04-2020,14,3
+1334,334,9,Von-Homenick,Dublin,300,02-05-2019,25,8
+1335,335,9,Von-Homenick,Dublin,277,04-08-2019,13,8
+1336,336,1,Traveler's Hub,Dublin,267,26-04-2019,23,5
+1337,337,6,"Boyle, Wolf and Moore",Cork,295,09-12-2019,24,5
+1338,338,14,Kenz Stay,Cork,230,04-11-2019,24,6
+1339,339,9,Von-Homenick,Dublin,262,15-08-2019,10,9
+1340,340,6,"Boyle, Wolf and Moore",Cork,213,18-01-2020,27,5
+1341,341,1,Traveler's Hub,Dublin,176,11-10-2019,10,11
+1342,342,7,Lockman-Roberts,Limerick,153,21-07-2019,25,12
+1343,343,3,Rutherford Inc,Galway,119,22-10-2019,17,13
+1344,344,9,Von-Homenick,Dublin,277,28-01-2020,22,8
+1345,345,14,Kenz Stay,Cork,127,06-12-2019,28,6
+1346,346,6,"Boyle, Wolf and Moore",Cork,299,02-04-2020,24,2
+1347,347,1,Traveler's Hub,Dublin,219,05-09-2019,15,12
+1348,348,6,"Boyle, Wolf and Moore",Cork,255,10-07-2019,25,2
+1349,349,7,Lockman-Roberts,Limerick,192,21-10-2019,16,12
+1350,350,8,Thiel-Konopelski,Limerick,281,25-02-2020,14,10
+1351,351,6,"Boyle, Wolf and Moore",Cork,160,16-05-2019,16,4
+1352,352,18,Abey Court,Dublin,122,12-09-2019,16,14
+1353,353,18,Abey Court,Dublin,171,17-06-2019,29,14
+1354,354,6,"Boyle, Wolf and Moore",Cork,218,29-09-2019,24,1
+1355,355,6,"Boyle, Wolf and Moore",Cork,236,21-04-2019,17,2
+1356,356,9,Von-Homenick,Dublin,268,16-12-2019,17,14
+1357,357,8,Thiel-Konopelski,Limerick,159,21-09-2019,27,10
+1358,358,14,Kenz Stay,Cork,165,05-06-2019,23,6
+1359,359,7,Lockman-Roberts,Limerick,142,16-02-2020,29,10
+1360,360,9,Von-Homenick,Dublin,174,27-08-2019,20,8
+1361,361,3,Rutherford Inc,Galway,112,25-07-2019,14,13
+1362,362,18,Abey Court,Dublin,294,06-02-2020,15,5
+1363,363,14,Kenz Stay,Cork,284,18-08-2019,11,6
+1364,364,9,Von-Homenick,Dublin,199,26-06-2019,25,9
+1365,365,8,Thiel-Konopelski,Limerick,249,28-09-2019,29,10
+1366,366,18,Abey Court,Dublin,130,29-01-2020,12,14
+1367,367,18,Abey Court,Dublin,212,31-08-2019,24,5
+1368,368,9,Von-Homenick,Dublin,212,16-01-2020,30,6
+1369,369,3,Rutherford Inc,Galway,291,13-03-2020,17,13
+1370,370,8,Thiel-Konopelski,Limerick,280,26-04-2019,12,10
+1371,371,3,Rutherford Inc,Galway,178,13-10-2019,12,13
+1372,372,3,Rutherford Inc,Galway,154,01-09-2019,10,13
+1373,373,1,Traveler's Hub,Dublin,147,08-08-2019,12,3
+1374,374,14,Kenz Stay,Cork,136,27-06-2019,23,6
+1375,375,18,Abey Court,Dublin,263,19-12-2019,26,14
+1376,376,8,Thiel-Konopelski,Limerick,191,17-11-2019,30,10
+1377,377,18,Abey Court,Dublin,234,18-05-2019,24,14
+1378,378,9,Von-Homenick,Dublin,278,29-11-2019,27,1
+1379,379,7,Lockman-Roberts,Limerick,116,20-10-2019,23,12
+1380,380,14,Kenz Stay,Cork,209,11-07-2019,16,7
+1381,381,18,Abey Court,Dublin,117,12-12-2019,22,3
+1382,382,18,Abey Court,Dublin,298,16-04-2019,15,14
+1383,383,14,Kenz Stay,Cork,299,22-01-2020,17,7
+1384,384,14,Kenz Stay,Cork,117,18-12-2019,13,6
+1385,385,1,Traveler's Hub,Dublin,297,26-04-2019,27,11
+1386,386,8,Thiel-Konopelski,Limerick,297,01-12-2019,14,10
+1387,387,14,Kenz Stay,Cork,157,19-05-2019,27,6
+1388,388,3,Rutherford Inc,Galway,251,01-04-2020,29,13
+1389,389,3,Rutherford Inc,Galway,300,21-10-2019,14,6
+1390,390,14,Kenz Stay,Cork,218,20-12-2019,30,6
+1391,391,18,Abey Court,Dublin,284,23-10-2019,28,13
+1392,392,9,Von-Homenick,Dublin,155,30-09-2019,21,9
+1393,393,14,Kenz Stay,Cork,128,05-10-2019,13,6
+1394,394,18,Abey Court,Dublin,168,29-07-2019,29,5
+1395,395,7,Lockman-Roberts,Limerick,145,03-11-2019,17,12
+1396,396,1,Traveler's Hub,Dublin,233,24-05-2019,26,11
+1397,397,18,Abey Court,Dublin,275,06-05-2019,12,3
+1398,398,18,Abey Court,Dublin,263,06-10-2019,22,3
+1399,399,8,Thiel-Konopelski,Limerick,211,30-05-2019,23,10
+1400,400,14,Kenz Stay,Cork,160,20-03-2020,14,7
+1401,401,8,Thiel-Konopelski,Limerick,284,25-10-2019,15,10
+1402,402,18,Abey Court,Dublin,197,01-07-2019,14,3
+1403,403,9,Von-Homenick,Dublin,218,09-04-2020,13,8
+1404,404,18,Abey Court,Dublin,201,21-07-2019,21,2
+1405,405,18,Abey Court,Dublin,228,06-04-2020,21,1
+1406,406,9,Von-Homenick,Dublin,300,16-11-2019,24,9
+1407,407,18,Abey Court,Dublin,238,05-03-2020,19,14
+1408,408,18,Abey Court,Dublin,214,21-01-2020,23,14
+1409,409,18,Abey Court,Dublin,276,06-10-2019,11,1
+1410,410,18,Abey Court,Dublin,196,22-12-2019,27,14
+1411,411,18,Abey Court,Dublin,122,07-06-2019,24,2
+1412,412,15,Galway Generator,Galway,217,18-01-2020,25,8
+1413,413,1,Traveler's Hub,Dublin,129,07-07-2019,25,11
+1414,414,1,Traveler's Hub,Dublin,253,27-08-2019,17,11
+1415,415,18,Abey Court,Dublin,223,27-11-2019,22,2
+1416,416,18,Abey Court,Dublin,141,16-03-2020,29,2
+1417,417,18,Abey Court,Dublin,194,01-02-2020,30,4
+1418,418,8,Thiel-Konopelski,Limerick,202,04-08-2019,26,10
+1419,419,18,Abey Court,Dublin,186,14-05-2019,26,11
+1420,420,18,Abey Court,Dublin,189,14-03-2020,15,5
+1421,421,14,Kenz Stay,Cork,114,23-09-2019,11,6
+1422,422,18,Abey Court,Dublin,171,18-11-2019,29,5
+1423,423,14,Kenz Stay,Cork,175,16-11-2019,12,7
+1424,424,14,Kenz Stay,Cork,181,25-11-2019,16,6
+1425,425,1,Traveler's Hub,Dublin,263,29-07-2019,19,11
+1426,426,18,Abey Court,Dublin,124,07-02-2020,11,14
+1427,427,14,Kenz Stay,Cork,288,09-06-2019,23,12
+1428,428,18,Abey Court,Dublin,221,28-10-2019,16,4
+1429,429,15,Galway Generator,Galway,195,10-09-2019,15,9
+1430,430,1,Traveler's Hub,Dublin,163,14-01-2020,11,11
+1431,431,8,Thiel-Konopelski,Limerick,268,24-05-2019,15,10
+1432,432,8,Thiel-Konopelski,Limerick,221,30-08-2019,18,10
+1433,433,18,Abey Court,Dublin,114,08-03-2020,23,4
+1434,434,18,Abey Court,Dublin,279,15-04-2019,16,4
+1435,435,3,Rutherford Inc,Galway,220,13-12-2019,12,13
+1436,436,8,Thiel-Konopelski,Limerick,256,26-06-2019,21,10
+1437,437,18,Abey Court,Dublin,194,20-06-2019,10,1
+1438,438,3,Rutherford Inc,Galway,294,28-08-2019,14,13
+1439,439,14,Kenz Stay,Cork,294,14-09-2019,13,6
+1440,440,18,Abey Court,Dublin,134,20-05-2019,26,4
+1441,441,18,Abey Court,Dublin,120,02-10-2019,26,14
+1442,442,15,Galway Generator,Galway,161,02-08-2019,11,9
+1443,443,14,Kenz Stay,Cork,185,08-12-2019,26,7
+1444,444,14,Kenz Stay,Cork,225,08-10-2019,18,7
+1445,445,18,Abey Court,Dublin,224,17-03-2020,17,5
+1446,446,18,Abey Court,Dublin,275,04-03-2020,20,5
+1447,447,14,Kenz Stay,Cork,214,12-07-2019,27,6
+1448,448,18,Abey Court,Dublin,298,28-08-2019,18,5
+1449,449,14,Kenz Stay,Cork,163,24-07-2019,18,6
+1450,450,18,Abey Court,Dublin,118,15-06-2019,21,14
+1451,451,14,Kenz Stay,Cork,249,05-04-2020,18,7
+1452,452,7,Lockman-Roberts,Limerick,221,20-09-2019,25,12
+1453,453,3,Rutherford Inc,Galway,211,25-09-2019,19,13
+1454,454,18,Abey Court,Dublin,229,11-07-2019,15,2
+1455,455,10,Hessel-Rosenbaum,Dublin,173,17-10-2019,16,6
+1456,456,11,Hiker Place,Dublin,158,13-01-2020,28,13
+1457,457,12,Rangers Spot,Galway,129,07-07-2019,22,9
+1458,458,13,Backpackers,Galway,225,27-11-2019,15,1
+1459,459,7,Lockman-Roberts,Limerick,154,18-08-2019,26,12
+1460,460,3,Rutherford Inc,Galway,128,12-09-2019,26,13
+1461,461,18,Abey Court,Dublin,236,29-02-2020,16,4
+1462,462,1,Traveler's Hub,Dublin,208,07-10-2019,26,11
+1463,463,18,Abey Court,Dublin,264,17-06-2019,26,11
+1464,464,15,Galway Generator,Galway,257,07-08-2019,19,9
+1465,465,8,Thiel-Konopelski,Limerick,243,28-09-2019,16,10
+1466,466,10,Hessel-Rosenbaum,Dublin,221,29-07-2019,25,7
+1467,467,11,Hiker Place,Dublin,266,10-07-2019,19,4
+1468,468,12,Rangers Spot,Galway,297,09-10-2019,26,5
+1469,469,10,Hessel-Rosenbaum,Dublin,256,06-07-2019,16,6
+1470,470,11,Hiker Place,Dublin,131,27-11-2019,30,3
+1471,471,12,Rangers Spot,Galway,133,10-09-2019,19,9
+1472,472,13,Backpackers,Galway,141,21-05-2019,25,9
+1473,473,10,Hessel-Rosenbaum,Dublin,151,06-11-2019,11,7
+1474,474,11,Hiker Place,Dublin,170,22-07-2019,28,9
+1475,475,12,Rangers Spot,Galway,181,21-11-2019,25,8
+1476,476,13,Backpackers,Galway,172,16-04-2019,25,1
+1477,477,1,Traveler's Hub,Dublin,225,10-05-2019,28,11
+1478,478,1,Traveler's Hub,Dublin,152,01-05-2019,26,11
+1479,479,18,Abey Court,Dublin,300,30-11-2019,22,4
+1480,480,15,Galway Generator,Galway,170,02-12-2019,29,9
+1481,481,18,Abey Court,Dublin,133,02-11-2019,15,11
+1482,482,18,Abey Court,Dublin,233,29-03-2020,18,2
+1483,483,18,Abey Court,Dublin,130,22-05-2019,15,14
+1484,484,7,Lockman-Roberts,Limerick,166,20-06-2019,29,12
+1485,485,11,Hiker Place,Dublin,300,31-08-2019,13,6
+1486,486,1,Traveler's Hub,Dublin,288,07-02-2020,17,11
+1487,487,3,Rutherford Inc,Galway,178,22-03-2020,14,13
+1488,488,1,Traveler's Hub,Dublin,172,16-11-2019,29,11
+1489,489,18,Abey Court,Dublin,122,03-12-2019,15,5
+1490,490,3,Rutherford Inc,Galway,284,13-05-2019,29,13
+1491,491,7,Lockman-Roberts,Limerick,212,26-07-2019,30,12
+1492,492,15,Galway Generator,Galway,154,20-12-2019,26,9
+1493,493,1,Traveler's Hub,Dublin,200,05-01-2020,14,3
+1494,494,1,Traveler's Hub,Dublin,130,07-04-2020,21,1
+1495,495,3,Rutherford Inc,Galway,249,18-11-2019,25,5
+1496,496,8,Thiel-Konopelski,Limerick,221,14-07-2019,24,10
+1497,497,15,Galway Generator,Galway,230,15-11-2019,19,8
+1498,498,8,Thiel-Konopelski,Limerick,252,04-02-2020,23,3
+1499,499,1,Traveler's Hub,Dublin,174,16-09-2019,11,7
+1500,500,7,Lockman-Roberts,Limerick,242,28-11-2019,28,12
+1501,501,1,Traveler's Hub,Dublin,205,12-05-2019,13,7
+1502,502,1,Traveler's Hub,Dublin,131,03-10-2019,21,5
+1503,503,15,Galway Generator,Galway,143,17-04-2019,16,8
+1504,504,15,Galway Generator,Galway,202,07-09-2019,29,8
+1505,505,1,Traveler's Hub,Dublin,203,29-12-2019,12,11
+1506,506,18,Abey Court,Dublin,163,18-03-2020,24,14
+1507,507,3,Rutherford Inc,Galway,202,15-06-2019,14,13
+1508,508,1,Traveler's Hub,Dublin,128,23-11-2019,21,2
+1509,509,18,Abey Court,Dublin,178,25-12-2019,15,14
+1510,510,15,Galway Generator,Galway,278,30-01-2020,17,9
+1511,511,1,Traveler's Hub,Dublin,230,21-10-2019,10,14
+1512,512,8,Thiel-Konopelski,Limerick,185,03-04-2020,11,10
+1513,513,1,Traveler's Hub,Dublin,183,03-02-2020,28,11
+1514,514,15,Galway Generator,Galway,149,06-08-2019,22,9
+1515,515,1,Traveler's Hub,Dublin,268,12-06-2019,24,2
+1516,516,1,Traveler's Hub,Dublin,293,15-04-2019,18,6
+1517,517,1,Traveler's Hub,Dublin,179,19-06-2019,26,11
+1518,518,1,Traveler's Hub,Dublin,195,05-07-2019,14,3
+1519,519,1,Traveler's Hub,Dublin,129,01-09-2019,14,4
+1520,520,3,Rutherford Inc,Galway,269,05-03-2020,11,12
+1521,521,11,Hiker Place,Dublin,167,03-05-2019,22,6
+1522,522,7,Lockman-Roberts,Limerick,197,02-09-2019,26,3
+1523,523,18,Abey Court,Dublin,264,01-06-2019,16,14
+1524,524,11,Hiker Place,Dublin,156,18-08-2019,29,7
+1525,525,18,Abey Court,Dublin,272,10-08-2019,20,14
+1526,526,1,Traveler's Hub,Dublin,133,09-05-2019,10,5
+1527,527,11,Hiker Place,Dublin,127,06-07-2019,22,7
+1528,528,1,Traveler's Hub,Dublin,292,17-08-2019,14,4
+1529,529,1,Traveler's Hub,Dublin,130,08-08-2019,16,12
+1530,530,1,Traveler's Hub,Dublin,268,03-08-2019,24,4
+1531,531,11,Hiker Place,Dublin,191,05-01-2020,10,7
+1532,532,18,Abey Court,Dublin,126,12-10-2019,18,14
+1533,533,1,Traveler's Hub,Dublin,273,24-10-2019,27,4
+1534,534,1,Traveler's Hub,Dublin,217,10-01-2020,20,1
+1535,535,1,Traveler's Hub,Dublin,257,10-10-2019,26,7
+1536,536,1,Traveler's Hub,Dublin,289,24-11-2019,16,12
+1537,537,8,Thiel-Konopelski,Limerick,147,19-05-2019,21,10
+1538,538,1,Traveler's Hub,Dublin,252,30-12-2019,20,4
+1539,539,1,Traveler's Hub,Dublin,146,08-09-2019,26,4
+1540,540,1,Traveler's Hub,Dublin,250,05-07-2019,25,1
+1541,541,1,Traveler's Hub,Dublin,293,19-06-2019,21,4
+1542,542,1,Traveler's Hub,Dublin,240,23-08-2019,25,4
+1543,543,1,Traveler's Hub,Dublin,114,25-04-2019,10,2
+1544,544,12,Rangers Spot,Galway,188,02-08-2019,26,7
+1545,545,12,Rangers Spot,Galway,178,08-10-2019,14,6
+1546,546,7,Lockman-Roberts,Limerick,125,26-05-2019,28,12
+1547,547,8,Thiel-Konopelski,Limerick,124,21-11-2019,20,10
+1548,548,1,Traveler's Hub,Dublin,222,06-04-2020,23,4
+1549,549,3,Rutherford Inc,Galway,161,23-01-2020,27,10
+1550,550,1,Traveler's Hub,Dublin,159,01-05-2019,15,3
+1551,551,12,Rangers Spot,Galway,169,18-07-2019,16,7
+1552,552,15,Galway Generator,Galway,227,16-01-2020,29,9
+1553,553,1,Traveler's Hub,Dublin,187,20-03-2020,21,2
+1554,554,12,Rangers Spot,Galway,142,18-12-2019,22,7
+1555,555,7,Lockman-Roberts,Limerick,190,08-04-2020,11,9
+1556,556,1,Traveler's Hub,Dublin,146,30-11-2019,22,2
+1557,557,8,Thiel-Konopelski,Limerick,185,23-07-2019,21,6
+1558,558,1,Traveler's Hub,Dublin,277,22-06-2019,13,4
+1559,559,18,Abey Court,Dublin,115,22-10-2019,23,14
+1560,560,8,Thiel-Konopelski,Limerick,286,10-08-2019,15,2
+1561,561,18,Abey Court,Dublin,270,03-07-2019,12,14
+1562,562,15,Galway Generator,Galway,225,07-05-2019,29,9
+1563,563,8,Thiel-Konopelski,Limerick,140,29-02-2020,14,10
+1564,564,1,Traveler's Hub,Dublin,160,13-05-2019,29,4
+1565,565,1,Traveler's Hub,Dublin,243,31-01-2020,24,1
+1566,566,4,"Macejkovic, Batz and Harber",Galway,252,19-07-2019,20,4
+1567,567,4,"Macejkovic, Batz and Harber",Galway,124,06-02-2020,17,1
+1568,568,4,"Macejkovic, Batz and Harber",Galway,150,11-08-2019,20,4
+1569,569,12,Rangers Spot,Galway,218,09-04-2020,29,6
+1570,570,4,"Macejkovic, Batz and Harber",Galway,167,14-05-2019,15,3
+1571,571,18,Abey Court,Dublin,154,18-01-2020,25,14
+1572,572,8,Thiel-Konopelski,Limerick,299,03-11-2019,20,10
+1573,573,4,"Macejkovic, Batz and Harber",Galway,278,19-05-2019,22,5
+1574,574,12,Rangers Spot,Galway,251,24-04-2019,26,3
+1575,575,4,"Macejkovic, Batz and Harber",Galway,292,16-03-2020,27,3
+1576,576,4,"Macejkovic, Batz and Harber",Galway,184,21-04-2019,22,12
+1577,577,1,Traveler's Hub,Dublin,264,08-06-2019,27,11
+1578,578,1,Traveler's Hub,Dublin,124,09-02-2020,26,11
+1579,579,13,Backpackers,Galway,186,03-04-2020,20,6
+1580,580,4,"Macejkovic, Batz and Harber",Galway,131,08-01-2020,29,2
+1581,581,4,"Macejkovic, Batz and Harber",Galway,146,18-12-2019,21,4
+1582,582,4,"Macejkovic, Batz and Harber",Galway,193,04-03-2020,20,3
+1583,583,13,Backpackers,Galway,149,04-11-2019,28,6
+1584,584,4,"Macejkovic, Batz and Harber",Galway,212,10-11-2019,19,4
+1585,585,1,Traveler's Hub,Dublin,215,14-04-2019,24,11
+1586,586,4,"Macejkovic, Batz and Harber",Galway,293,11-12-2019,20,12
+1587,587,4,"Macejkovic, Batz and Harber",Galway,278,12-09-2019,18,1
+1588,588,4,"Macejkovic, Batz and Harber",Galway,207,01-10-2019,20,3
+1589,589,13,Backpackers,Galway,197,24-12-2019,29,7
+1590,590,15,Galway Generator,Galway,194,02-04-2020,19,8
+1591,591,4,"Macejkovic, Batz and Harber",Galway,149,26-10-2019,20,5
+1592,592,13,Backpackers,Galway,128,03-06-2019,12,7
+1593,593,4,"Macejkovic, Batz and Harber",Galway,289,23-12-2019,12,3
+1594,594,4,"Macejkovic, Batz and Harber",Galway,115,14-10-2019,19,5
+1595,595,4,"Macejkovic, Batz and Harber",Galway,182,03-07-2019,22,1
+1596,596,4,"Macejkovic, Batz and Harber",Galway,258,19-06-2019,11,1
+1597,597,18,Abey Court,Dublin,224,11-12-2019,24,14
+1598,598,4,"Macejkovic, Batz and Harber",Galway,270,29-12-2019,18,1
+1599,599,13,Backpackers,Galway,138,22-03-2020,22,7
+1600,600,4,"Macejkovic, Batz and Harber",Galway,180,18-04-2019,16,3
+1601,601,1,Traveler's Hub,Dublin,127,29-04-2019,14,11
+1602,602,13,Backpackers,Galway,294,05-08-2019,10,6
+1603,603,1,Traveler's Hub,Dublin,187,10-01-2020,30,11
+1604,604,4,"Macejkovic, Batz and Harber",Galway,284,19-09-2019,26,1
+1605,605,4,"Macejkovic, Batz and Harber",Galway,149,08-02-2020,30,5
+1606,606,15,Galway Generator,Galway,117,30-01-2020,23,8
+1607,607,13,Backpackers,Galway,282,02-05-2019,30,13
+1608,608,8,Thiel-Konopelski,Limerick,257,23-01-2020,27,10
+1609,609,15,Galway Generator,Galway,232,13-07-2019,13,8
+1610,610,4,"Macejkovic, Batz and Harber",Galway,232,03-07-2019,25,1
+1611,611,7,Lockman-Roberts,Limerick,299,06-02-2020,10,10
+1612,612,15,Galway Generator,Galway,190,21-02-2020,28,9
+1613,613,4,"Macejkovic, Batz and Harber",Galway,175,19-08-2019,28,4
+1614,614,3,Rutherford Inc,Galway,149,26-12-2019,10,13
+1615,615,4,"Macejkovic, Batz and Harber",Galway,290,05-11-2019,23,5
+1616,616,4,"Macejkovic, Batz and Harber",Galway,142,01-09-2019,23,5
+1617,617,13,Backpackers,Galway,251,26-02-2020,15,1
+1618,618,4,"Macejkovic, Batz and Harber",Galway,196,03-02-2020,19,8
+1619,619,4,"Macejkovic, Batz and Harber",Galway,292,25-10-2019,18,3
+1620,620,4,"Macejkovic, Batz and Harber",Galway,279,08-06-2019,25,7
+1621,621,11,Hiker Place,Dublin,241,12-06-2019,26,1
+1622,622,13,Backpackers,Galway,292,29-11-2019,24,7
+1623,623,11,Hiker Place,Dublin,229,09-06-2019,28,9
+1624,624,11,Hiker Place,Dublin,239,17-04-2019,12,1
+1625,625,7,Lockman-Roberts,Limerick,298,29-10-2019,17,7
+1626,626,11,Hiker Place,Dublin,168,27-10-2019,29,1
+1627,627,11,Hiker Place,Dublin,190,13-01-2020,14,1
+1628,628,11,Hiker Place,Dublin,262,07-07-2019,21,2
+1629,629,18,Abey Court,Dublin,158,06-02-2020,25,14
+1630,630,13,Backpackers,Galway,190,29-02-2020,28,7
+1631,631,13,Backpackers,Galway,171,16-10-2019,18,6
+1632,632,13,Backpackers,Galway,243,17-08-2019,20,12
+1633,633,11,Hiker Place,Dublin,115,18-06-2019,28,1
+1634,634,11,Hiker Place,Dublin,129,01-09-2019,12,7
+1635,635,15,Galway Generator,Galway,289,24-11-2019,23,9
+1636,636,15,Galway Generator,Galway,170,23-03-2020,29,2
+1637,637,11,Hiker Place,Dublin,233,07-11-2019,13,3
+1638,638,7,Lockman-Roberts,Limerick,218,01-10-2019,26,12
+1639,639,8,Thiel-Konopelski,Limerick,267,31-12-2019,17,10
+1640,640,3,Rutherford Inc,Galway,266,04-10-2019,16,6
+1641,641,3,Rutherford Inc,Galway,175,08-04-2020,20,13
+1642,642,8,Thiel-Konopelski,Limerick,223,24-06-2019,12,10
+1643,643,11,Hiker Place,Dublin,204,21-08-2019,10,5
+1644,644,18,Abey Court,Dublin,287,31-05-2019,30,14
+1645,645,11,Hiker Place,Dublin,130,02-01-2020,11,1
+1646,646,15,Galway Generator,Galway,208,30-06-2019,16,8
+1647,647,13,Backpackers,Galway,279,23-01-2020,14,7
+1648,648,11,Hiker Place,Dublin,285,13-11-2019,14,1
+1649,649,11,Hiker Place,Dublin,196,10-05-2019,14,2
+1650,650,13,Backpackers,Galway,199,18-06-2019,16,7
+1651,651,11,Hiker Place,Dublin,113,30-10-2019,21,2
+1652,652,1,Traveler's Hub,Dublin,236,05-12-2019,11,11
+1653,653,13,Backpackers,Galway,214,20-07-2019,30,7
+1654,654,11,Hiker Place,Dublin,239,01-03-2020,19,4
+1655,655,11,Hiker Place,Dublin,285,16-05-2019,18,5
+1656,656,11,Hiker Place,Dublin,287,21-07-2019,12,5
+1657,657,3,Rutherford Inc,Galway,138,17-03-2020,13,13
+1658,658,13,Backpackers,Galway,229,24-03-2020,19,7
+1659,659,18,Abey Court,Dublin,210,30-06-2019,18,14
+1660,660,13,Backpackers,Galway,292,31-01-2020,19,7
+1661,661,13,Backpackers,Galway,258,28-11-2019,25,3
+1662,662,1,Traveler's Hub,Dublin,241,04-01-2020,26,3
+1663,663,13,Backpackers,Galway,239,30-03-2020,29,6
+1664,664,11,Hiker Place,Dublin,120,01-05-2019,23,2
+1665,665,11,Hiker Place,Dublin,235,05-03-2020,26,5
+1666,666,1,Traveler's Hub,Dublin,269,05-01-2020,27,11
+1667,667,7,Lockman-Roberts,Limerick,252,07-08-2019,27,12
+1668,668,11,Hiker Place,Dublin,198,18-12-2019,13,13
+1669,669,11,Hiker Place,Dublin,237,20-10-2019,24,1
+1670,670,15,Galway Generator,Galway,251,22-09-2019,13,9
+1671,671,11,Hiker Place,Dublin,202,09-11-2019,17,14
+1672,672,15,Galway Generator,Galway,157,14-01-2020,23,9
+1673,673,11,Hiker Place,Dublin,152,03-09-2019,19,5
+1674,674,11,Hiker Place,Dublin,142,02-10-2019,15,2
+1675,675,8,Thiel-Konopelski,Limerick,135,26-04-2019,27,10
+1676,676,18,Abey Court,Dublin,295,24-03-2020,24,14
+1677,677,13,Backpackers,Galway,173,18-12-2019,15,14
+1678,678,11,Hiker Place,Dublin,206,05-03-2020,13,4
+1679,679,13,Backpackers,Galway,272,25-04-2019,15,14
+1680,680,8,Thiel-Konopelski,Limerick,247,06-10-2019,17,10
+1681,681,11,Hiker Place,Dublin,147,11-03-2020,24,14
+1682,682,11,Hiker Place,Dublin,182,28-04-2019,20,3
+1683,683,1,Traveler's Hub,Dublin,247,18-10-2019,26,11
+1684,684,13,Backpackers,Galway,175,01-01-2020,26,14
+1685,685,13,Backpackers,Galway,157,23-09-2019,22,2
+1686,686,11,Hiker Place,Dublin,177,20-04-2019,10,4
+1687,687,1,Traveler's Hub,Dublin,122,16-09-2019,26,4
+1688,688,11,Hiker Place,Dublin,138,06-02-2020,13,1
+1689,689,11,Hiker Place,Dublin,171,13-05-2019,30,4
+1690,690,1,Traveler's Hub,Dublin,131,23-02-2020,11,11
+1691,691,7,Lockman-Roberts,Limerick,153,11-07-2019,21,10
+1692,692,1,Traveler's Hub,Dublin,158,07-01-2020,10,11
+1693,693,15,Galway Generator,Galway,154,19-02-2020,22,8
+1694,694,15,Galway Generator,Galway,220,24-05-2019,12,10
+1695,695,11,Hiker Place,Dublin,194,15-09-2019,14,9
+1696,696,1,Traveler's Hub,Dublin,171,21-04-2019,15,11
+1697,697,11,Hiker Place,Dublin,200,12-07-2019,12,1
+1698,698,11,Hiker Place,Dublin,124,27-05-2019,19,1
+1699,699,11,Hiker Place,Dublin,282,18-04-2019,22,5
+1700,700,15,Galway Generator,Galway,232,05-04-2020,15,8
+1701,701,4,"Macejkovic, Batz and Harber",Galway,206,24-11-2019,19,4
+1702,702,5,Lemke-Bartell,Cork,278,06-04-2020,11,1
+1703,703,6,"Boyle, Wolf and Moore",Cork,279,11-02-2020,30,3
+1704,704,15,Galway Generator,Galway,149,20-03-2020,25,8
+1705,705,15,Galway Generator,Galway,281,09-04-2020,17,9
+1706,706,7,Lockman-Roberts,Limerick,149,20-10-2019,13,5
+1707,707,18,Abey Court,Dublin,132,12-12-2019,10,14
+1708,708,7,Lockman-Roberts,Limerick,134,23-04-2019,14,5
+1709,709,13,Backpackers,Galway,209,08-06-2019,29,7
+1710,710,15,Galway Generator,Galway,118,30-09-2019,20,3
+1711,711,8,Thiel-Konopelski,Limerick,160,24-06-2019,15,1
+1712,712,3,Rutherford Inc,Galway,296,17-01-2020,15,8
+1713,713,15,Galway Generator,Galway,127,10-08-2019,13,8
+1714,714,1,Traveler's Hub,Dublin,125,11-06-2019,26,6
+1715,715,9,Von-Homenick,Dublin,204,23-11-2019,30,12
+1716,716,8,Thiel-Konopelski,Limerick,151,09-06-2019,24,10
+1717,717,4,"Macejkovic, Batz and Harber",Galway,134,11-02-2020,27,5
+1718,718,12,Rangers Spot,Galway,183,13-12-2019,19,3
+1719,719,7,Lockman-Roberts,Limerick,202,01-05-2019,15,12
+1720,720,7,Lockman-Roberts,Limerick,289,11-06-2019,27,12
+1721,721,7,Lockman-Roberts,Limerick,181,06-04-2020,25,12
+1722,722,13,Backpackers,Galway,213,20-12-2019,20,7
+1723,723,13,Backpackers,Galway,277,25-02-2020,27,6
+1724,724,13,Backpackers,Galway,289,06-07-2019,17,7
+1725,725,1,Traveler's Hub,Dublin,287,30-10-2019,27,11
+1726,726,12,Rangers Spot,Galway,244,23-04-2019,26,2
+1727,727,12,Rangers Spot,Galway,211,19-01-2020,13,1
+1728,728,3,Rutherford Inc,Galway,137,17-06-2019,28,6
+1729,729,8,Thiel-Konopelski,Limerick,230,02-12-2019,22,10
+1730,730,12,Rangers Spot,Galway,234,26-05-2019,19,1
+1731,731,15,Galway Generator,Galway,209,30-05-2019,11,8
+1732,732,12,Rangers Spot,Galway,289,12-08-2019,19,1
+1733,733,18,Abey Court,Dublin,277,18-06-2019,22,10
+1734,734,8,Thiel-Konopelski,Limerick,168,28-12-2019,14,10
+1735,735,12,Rangers Spot,Galway,134,07-06-2019,25,4
+1736,736,15,Galway Generator,Galway,265,21-06-2019,15,2
+1737,737,12,Rangers Spot,Galway,215,18-05-2019,29,4
+1738,738,1,Traveler's Hub,Dublin,166,25-10-2019,13,11
+1739,739,8,Thiel-Konopelski,Limerick,197,10-06-2019,24,10
+1740,740,15,Galway Generator,Galway,192,30-12-2019,21,8
+1741,741,12,Rangers Spot,Galway,149,31-12-2019,29,3
+1742,742,12,Rangers Spot,Galway,273,15-04-2019,22,3
+1743,743,7,Lockman-Roberts,Limerick,216,20-12-2019,23,12
+1744,744,12,Rangers Spot,Galway,201,05-11-2019,12,3
+1745,745,3,Rutherford Inc,Galway,288,31-05-2019,25,13
+1746,746,12,Rangers Spot,Galway,273,30-06-2019,28,4
+1747,747,15,Galway Generator,Galway,203,05-08-2019,11,8
+1748,748,18,Abey Court,Dublin,113,14-04-2019,19,14
+1749,749,12,Rangers Spot,Galway,217,10-07-2019,10,2
+1750,750,1,Traveler's Hub,Dublin,295,26-10-2019,10,11
+1751,751,15,Galway Generator,Galway,130,16-08-2019,23,9
+1752,752,18,Abey Court,Dublin,209,19-02-2020,21,14
+1753,753,7,Lockman-Roberts,Limerick,187,20-04-2019,20,12
+1754,754,7,Lockman-Roberts,Limerick,188,13-12-2019,25,12
+1755,755,18,Abey Court,Dublin,118,15-08-2019,19,14
+1756,756,13,Backpackers,Galway,259,16-02-2020,25,13
+1757,757,13,Backpackers,Galway,169,11-05-2019,16,6
+1758,758,15,Galway Generator,Galway,146,08-04-2020,24,8
+1759,759,8,Thiel-Konopelski,Limerick,178,12-08-2019,29,10
+1760,760,12,Rangers Spot,Galway,274,17-04-2019,14,4
+1761,761,8,Thiel-Konopelski,Limerick,122,27-06-2019,14,14
+1762,762,13,Backpackers,Galway,209,15-07-2019,17,6
+1763,763,13,Backpackers,Galway,159,17-05-2019,25,6
+1764,764,12,Rangers Spot,Galway,226,27-06-2019,30,1
+1765,765,8,Thiel-Konopelski,Limerick,229,22-01-2020,20,10
+1766,766,13,Backpackers,Galway,204,21-07-2019,30,2
+1767,767,15,Galway Generator,Galway,242,25-08-2019,18,9
+1768,768,8,Thiel-Konopelski,Limerick,199,25-11-2019,10,10
+1769,769,8,Thiel-Konopelski,Limerick,211,29-02-2020,13,10
+1770,770,12,Rangers Spot,Galway,169,11-01-2020,14,2
+1771,771,12,Rangers Spot,Galway,155,17-05-2019,21,4
+1772,772,12,Rangers Spot,Galway,282,04-01-2020,15,3
+1773,773,15,Galway Generator,Galway,149,05-09-2019,29,8
+1774,774,13,Backpackers,Galway,209,26-12-2019,23,7
+1775,775,13,Backpackers,Galway,174,20-07-2019,26,7
+1776,776,18,Abey Court,Dublin,255,01-06-2019,21,3
+1777,777,3,Rutherford Inc,Galway,275,14-10-2019,24,12
+1778,778,7,Lockman-Roberts,Limerick,267,19-12-2019,19,8
+1779,779,18,Abey Court,Dublin,169,23-02-2020,14,14
+1780,780,13,Backpackers,Galway,134,18-05-2019,30,6
+1781,781,12,Rangers Spot,Galway,237,15-03-2020,24,3
+1782,782,8,Thiel-Konopelski,Limerick,115,11-09-2019,23,10
+1783,783,8,Thiel-Konopelski,Limerick,167,18-05-2019,18,10
+1784,784,3,Rutherford Inc,Galway,126,31-10-2019,27,13
+1785,785,3,Rutherford Inc,Galway,200,17-08-2019,11,5
+1786,786,3,Rutherford Inc,Galway,272,22-07-2019,29,13
+1787,787,3,Rutherford Inc,Galway,208,25-04-2019,25,5
+1788,788,18,Abey Court,Dublin,245,26-11-2019,26,14
+1789,789,8,Thiel-Konopelski,Limerick,222,12-09-2019,16,12
+1790,790,1,Traveler's Hub,Dublin,140,25-07-2019,17,12
+1791,791,18,Abey Court,Dublin,199,18-10-2019,24,14
+1792,792,13,Backpackers,Galway,190,07-03-2020,18,13
+1793,793,1,Traveler's Hub,Dublin,251,05-05-2019,28,11
+1794,794,1,Traveler's Hub,Dublin,162,24-01-2020,19,11
+1795,795,15,Galway Generator,Galway,196,24-06-2019,18,8
+1796,796,15,Galway Generator,Galway,178,17-10-2019,27,9
+1797,797,3,Rutherford Inc,Galway,120,27-07-2019,17,3
+1798,798,3,Rutherford Inc,Galway,146,13-09-2019,26,3
+1799,799,3,Rutherford Inc,Galway,223,15-03-2020,29,3
+1800,800,13,Backpackers,Galway,261,31-03-2020,19,4
+1801,801,3,Rutherford Inc,Galway,221,13-04-2020,26,5
+1802,802,7,Lockman-Roberts,Limerick,180,04-05-2019,18,9
+1803,803,3,Rutherford Inc,Galway,172,10-11-2019,24,13
+1804,804,3,Rutherford Inc,Galway,195,29-09-2019,27,4
+1805,805,3,Rutherford Inc,Galway,184,11-06-2019,29,2
+1806,806,15,Galway Generator,Galway,263,17-05-2019,26,8
+1807,807,3,Rutherford Inc,Galway,140,03-01-2020,30,2
+1808,808,3,Rutherford Inc,Galway,268,27-09-2019,17,12
+1809,809,3,Rutherford Inc,Galway,214,09-12-2019,27,8
+1810,810,8,Thiel-Konopelski,Limerick,255,02-08-2019,30,13
+1811,811,13,Backpackers,Galway,126,06-12-2019,24,10
+1812,812,3,Rutherford Inc,Galway,216,27-12-2019,10,1
+1813,813,3,Rutherford Inc,Galway,218,20-12-2019,30,1
+1814,814,3,Rutherford Inc,Galway,292,12-09-2019,19,13
+1815,815,3,Rutherford Inc,Galway,278,22-11-2019,16,3
+1816,816,18,Abey Court,Dublin,295,12-10-2019,11,14
+1817,817,3,Rutherford Inc,Galway,158,12-01-2020,23,5
+1818,818,15,Galway Generator,Galway,227,05-05-2019,21,9
+1819,819,3,Rutherford Inc,Galway,289,12-07-2019,23,4
+1820,820,8,Thiel-Konopelski,Limerick,158,13-12-2019,28,10
+1821,821,15,Galway Generator,Galway,177,11-04-2020,26,8
+1822,822,18,Abey Court,Dublin,149,08-01-2020,21,5
+1823,823,3,Rutherford Inc,Galway,179,29-04-2019,20,11
+1824,824,18,Abey Court,Dublin,195,18-01-2020,11,14
+1825,825,7,Lockman-Roberts,Limerick,124,25-03-2020,14,12
+1826,826,13,Backpackers,Galway,119,21-04-2019,15,7
+1827,827,3,Rutherford Inc,Galway,223,17-02-2020,22,13
+1828,828,3,Rutherford Inc,Galway,129,13-02-2020,14,3
+1829,829,3,Rutherford Inc,Galway,286,04-11-2019,24,8
+1830,830,15,Galway Generator,Galway,291,17-10-2019,19,13
+1831,831,3,Rutherford Inc,Galway,213,03-11-2019,10,8
+1832,832,7,Lockman-Roberts,Limerick,144,27-07-2019,13,4
+1833,833,15,Galway Generator,Galway,167,08-12-2019,25,8
+1834,834,13,Backpackers,Galway,171,01-11-2019,20,6
+1835,835,3,Rutherford Inc,Galway,198,13-08-2019,10,2
+1836,836,15,Galway Generator,Galway,209,20-04-2019,13,8
+1837,837,13,Backpackers,Galway,207,29-01-2020,14,8
+1838,838,13,Backpackers,Galway,223,02-06-2019,11,6
+1839,839,8,Thiel-Konopelski,Limerick,254,10-11-2019,29,10
+1840,840,1,Traveler's Hub,Dublin,270,28-12-2019,18,11
+1841,841,13,Backpackers,Galway,244,10-05-2019,15,7
+1842,842,3,Rutherford Inc,Galway,245,09-11-2019,26,13
+1843,843,3,Rutherford Inc,Galway,241,16-01-2020,16,13
+1844,844,15,Galway Generator,Galway,165,08-10-2019,30,9
+1845,845,15,Galway Generator,Galway,265,25-11-2019,23,9
+1846,846,3,Rutherford Inc,Galway,137,28-10-2019,21,2
+1847,847,3,Rutherford Inc,Galway,141,05-03-2020,24,5
+1848,848,8,Thiel-Konopelski,Limerick,288,07-10-2019,10,10
+1849,849,1,Traveler's Hub,Dublin,242,27-03-2020,29,11
+1850,850,15,Galway Generator,Galway,217,26-01-2020,26,3
+1851,851,3,Rutherford Inc,Galway,180,24-09-2019,17,4
+1852,852,15,Galway Generator,Galway,272,13-06-2019,21,9
+1853,853,1,Traveler's Hub,Dublin,222,06-09-2019,28,7
+1854,854,1,Traveler's Hub,Dublin,244,10-05-2019,17,12
+1855,855,15,Galway Generator,Galway,111,07-10-2019,12,9
+1856,856,18,Abey Court,Dublin,233,23-06-2019,14,2
+1857,857,18,Abey Court,Dublin,116,03-11-2019,14,14
+1858,858,8,Thiel-Konopelski,Limerick,182,16-12-2019,24,7
+1859,859,7,Lockman-Roberts,Limerick,208,29-06-2019,29,12
+1860,860,18,Abey Court,Dublin,282,14-12-2019,29,4
+1861,861,1,Traveler's Hub,Dublin,183,23-04-2019,23,11
+1862,862,3,Rutherford Inc,Galway,206,11-12-2019,17,6
+1863,863,13,Backpackers,Galway,237,06-11-2019,26,6
+1864,864,15,Galway Generator,Galway,250,16-04-2019,30,9
+1865,865,15,Galway Generator,Galway,251,16-09-2019,30,9
+1866,866,13,Backpackers,Galway,112,31-05-2019,26,7
+1867,867,8,Thiel-Konopelski,Limerick,276,11-01-2020,11,11
+1868,868,15,Galway Generator,Galway,296,27-07-2019,12,8
+1869,869,1,Traveler's Hub,Dublin,254,02-05-2019,10,9
+1870,870,8,Thiel-Konopelski,Limerick,115,27-06-2019,29,14
+1871,871,13,Backpackers,Galway,273,22-12-2019,26,7
+1872,872,3,Rutherford Inc,Galway,186,14-03-2020,18,5
+1873,873,3,Rutherford Inc,Galway,257,16-03-2020,30,1
+1874,874,13,Backpackers,Galway,191,30-07-2019,21,5
+1875,875,7,Lockman-Roberts,Limerick,275,11-04-2020,19,12
+1876,876,8,Thiel-Konopelski,Limerick,294,30-08-2019,11,10
+1877,877,13,Backpackers,Galway,283,13-07-2019,15,14
+1878,878,1,Traveler's Hub,Dublin,265,15-06-2019,25,2
+1879,879,13,Backpackers,Galway,261,24-09-2019,15,7
+1880,880,15,Galway Generator,Galway,175,19-05-2019,11,8
+1881,881,13,Backpackers,Galway,206,29-05-2019,17,7
+1882,882,8,Thiel-Konopelski,Limerick,201,03-04-2020,10,10
+1883,883,3,Rutherford Inc,Galway,248,17-02-2020,24,11
+1884,884,3,Rutherford Inc,Galway,255,16-10-2019,29,7
+1885,885,3,Rutherford Inc,Galway,124,17-10-2019,29,9
+1886,886,15,Galway Generator,Galway,238,30-05-2019,20,9
+1887,887,3,Rutherford Inc,Galway,214,20-08-2019,19,13
+1888,888,1,Traveler's Hub,Dublin,136,20-04-2019,21,11
+1889,889,13,Backpackers,Galway,288,05-04-2020,20,14
+1890,890,13,Backpackers,Galway,180,12-06-2019,13,6
+1891,891,8,Thiel-Konopelski,Limerick,180,06-04-2020,14,10
+1892,892,15,Galway Generator,Galway,210,19-09-2019,21,2
+1893,893,15,Galway Generator,Galway,253,22-12-2019,23,14
+1894,894,8,Thiel-Konopelski,Limerick,255,25-12-2019,20,10
+1895,895,3,Rutherford Inc,Galway,191,13-08-2019,29,1
+1896,896,13,Backpackers,Galway,132,27-05-2019,17,7
+1897,897,2,Home and Feels,Dublin,153,11-02-2020,22,4
+1898,898,15,Galway Generator,Galway,243,15-09-2019,14,13
+1899,899,15,Galway Generator,Galway,209,13-05-2019,19,8
+1900,900,8,Thiel-Konopelski,Limerick,223,03-10-2019,17,10
+1901,901,15,Galway Generator,Galway,232,12-09-2019,19,9
+1902,902,13,Backpackers,Galway,247,11-12-2019,14,13
+1903,903,8,Thiel-Konopelski,Limerick,112,22-10-2019,14,10
+1904,904,2,Home and Feels,Dublin,237,21-11-2019,14,3
+1905,905,8,Thiel-Konopelski,Limerick,274,28-09-2019,30,10
+1906,906,8,Thiel-Konopelski,Limerick,291,03-12-2019,27,10
+1907,907,18,Abey Court,Dublin,231,25-09-2019,18,14
+1908,908,15,Galway Generator,Galway,297,02-02-2020,19,4
+1909,909,18,Abey Court,Dublin,262,23-08-2019,11,5
+1910,910,15,Galway Generator,Galway,174,31-07-2019,20,9
+1911,911,2,Home and Feels,Dublin,113,31-05-2019,17,4
+1912,912,15,Galway Generator,Galway,224,19-03-2020,27,9
+1913,913,8,Thiel-Konopelski,Limerick,202,19-08-2019,18,7
+1914,914,2,Home and Feels,Dublin,202,19-06-2019,22,3
+1915,915,7,Lockman-Roberts,Limerick,280,05-03-2020,23,12
+1916,916,7,Lockman-Roberts,Limerick,273,23-02-2020,13,12
+1917,917,3,Rutherford Inc,Galway,142,02-06-2019,15,13
+1918,918,2,Home and Feels,Dublin,156,12-01-2020,12,4
+1919,919,2,Home and Feels,Dublin,178,15-12-2019,19,6
+1920,920,3,Rutherford Inc,Galway,264,26-12-2019,14,13
+1921,921,8,Thiel-Konopelski,Limerick,204,10-11-2019,15,6
+1922,922,2,Home and Feels,Dublin,250,29-12-2019,13,3
+1923,923,15,Galway Generator,Galway,177,10-01-2020,11,9
+1924,924,15,Galway Generator,Galway,186,17-07-2019,20,9
+1925,925,2,Home and Feels,Dublin,228,24-07-2019,16,5
+1926,926,1,Traveler's Hub,Dublin,172,24-09-2019,14,11
+1927,927,2,Home and Feels,Dublin,216,29-05-2019,20,2
+1928,928,2,Home and Feels,Dublin,151,23-04-2019,18,9
+1929,929,7,Lockman-Roberts,Limerick,156,19-12-2019,27,12
+1930,930,7,Lockman-Roberts,Limerick,288,07-01-2020,17,12
+1931,931,2,Home and Feels,Dublin,212,24-08-2019,13,4
+1932,932,8,Thiel-Konopelski,Limerick,160,17-06-2019,20,10
+1933,933,2,Home and Feels,Dublin,217,22-02-2020,15,2
+1934,934,2,Home and Feels,Dublin,296,27-03-2020,23,5
+1935,935,18,Abey Court,Dublin,235,18-10-2019,21,14
+1936,936,2,Home and Feels,Dublin,176,03-04-2020,25,2
+1937,937,2,Home and Feels,Dublin,126,25-03-2020,29,3
+1938,938,3,Rutherford Inc,Galway,149,03-10-2019,10,13
+1939,939,2,Home and Feels,Dublin,192,21-12-2019,13,4
+1940,940,13,Backpackers,Galway,135,01-03-2020,15,6
+1941,941,2,Home and Feels,Dublin,201,01-03-2020,14,1
+1942,942,2,Home and Feels,Dublin,192,15-09-2019,17,10
+1943,943,7,Lockman-Roberts,Limerick,221,01-06-2019,28,3
+1944,944,2,Home and Feels,Dublin,257,04-07-2019,26,4
+1945,945,1,Traveler's Hub,Dublin,174,26-11-2019,25,9
+1946,946,13,Backpackers,Galway,123,25-12-2019,24,4
+1947,947,2,Home and Feels,Dublin,137,22-08-2019,10,14
+1948,948,18,Abey Court,Dublin,124,31-05-2019,28,11
+1949,949,2,Home and Feels,Dublin,290,22-01-2020,21,2
+1950,950,8,Thiel-Konopelski,Limerick,183,24-10-2019,21,10
+1951,951,2,Home and Feels,Dublin,136,26-10-2019,15,4
+1952,952,15,Galway Generator,Galway,253,01-12-2019,18,7
+1953,953,15,Galway Generator,Galway,201,28-02-2020,18,10
+1954,954,13,Backpackers,Galway,206,15-06-2019,14,2
+1955,955,2,Home and Feels,Dublin,118,21-09-2019,26,4
+1956,956,2,Home and Feels,Dublin,122,29-12-2019,21,10
+1957,957,13,Backpackers,Galway,126,26-07-2019,29,7
+1958,958,18,Abey Court,Dublin,163,02-01-2020,12,14
+1959,959,8,Thiel-Konopelski,Limerick,155,04-12-2019,22,10
+1960,960,17,Jacobs Inn,Cork,244,25-06-2019,19,3
+1961,961,17,Jacobs Inn,Cork,169,22-08-2019,18,5
+1962,962,15,Galway Generator,Galway,270,16-05-2019,14,8
+1963,963,13,Backpackers,Galway,220,03-01-2020,18,7
+1964,964,8,Thiel-Konopelski,Limerick,140,29-12-2019,22,10
+1965,965,17,Jacobs Inn,Cork,292,24-03-2020,11,4
+1966,966,3,Rutherford Inc,Galway,197,02-01-2020,29,13
+1967,967,17,Jacobs Inn,Cork,221,15-02-2020,10,1
+1968,968,3,Rutherford Inc,Galway,213,19-05-2019,29,7
+1969,969,17,Jacobs Inn,Cork,117,11-07-2019,18,11
+1970,970,18,Abey Court,Dublin,164,11-08-2019,12,14
+1971,971,17,Jacobs Inn,Cork,152,28-09-2019,24,1
+1972,972,13,Backpackers,Galway,151,24-01-2020,30,6
+1973,973,15,Galway Generator,Galway,220,29-06-2019,10,8
+1974,974,17,Jacobs Inn,Cork,273,29-06-2019,10,7
+1975,975,13,Backpackers,Galway,266,12-03-2020,25,13
+1976,976,18,Abey Court,Dublin,220,18-05-2019,13,14
+1977,977,8,Thiel-Konopelski,Limerick,285,15-08-2019,30,12
+1978,978,3,Rutherford Inc,Galway,247,07-09-2019,16,13
+1979,979,17,Jacobs Inn,Cork,150,16-07-2019,13,5
+1980,980,17,Jacobs Inn,Cork,281,08-10-2019,14,5
+1981,981,15,Galway Generator,Galway,143,04-01-2020,19,8
+1982,982,15,Galway Generator,Galway,245,20-01-2020,29,9
+1983,983,17,Jacobs Inn,Cork,221,21-12-2019,17,2
+1984,984,17,Jacobs Inn,Cork,144,12-09-2019,25,10
+1985,985,13,Backpackers,Galway,225,09-05-2019,18,6
+1986,986,13,Backpackers,Galway,289,18-07-2019,18,6
+1987,987,17,Jacobs Inn,Cork,228,11-05-2019,29,5
+1988,988,18,Abey Court,Dublin,215,14-03-2020,14,14
+1989,989,3,Rutherford Inc,Galway,209,17-04-2019,11,10
+1990,990,13,Backpackers,Galway,157,13-12-2019,29,10
+1991,991,1,Traveler's Hub,Dublin,118,28-03-2020,28,3
+1992,992,15,Galway Generator,Galway,272,30-11-2019,24,9
+1993,993,8,Thiel-Konopelski,Limerick,273,18-10-2019,13,10
+1994,994,3,Rutherford Inc,Galway,216,01-10-2019,26,13
+1995,995,17,Jacobs Inn,Cork,276,15-11-2019,23,3
+1996,996,17,Jacobs Inn,Cork,271,02-09-2019,28,12
+1997,997,17,Jacobs Inn,Cork,292,16-07-2019,10,4
+1998,998,17,Jacobs Inn,Cork,237,07-09-2019,13,3
+1999,999,13,Backpackers,Galway,138,17-03-2020,26,6
+2000,1000,13,Backpackers,Galway,287,06-03-2020,26,7
